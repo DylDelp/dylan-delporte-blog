@@ -5,4 +5,10 @@ title: "About me"
 
 This section also must include: 
 
-- first name/surname, teacher’s name, class name and academic year
+First name: Dylan
+
+Surname: Delporte
+
+Teacher’s name: Nicolas Devilez
+
+Class name and academic year: Bachelor of biology , second years in the 4th group of english
