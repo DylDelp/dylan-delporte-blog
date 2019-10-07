@@ -1,5 +1,5 @@
 ---
-title: "Everything you need to know about elephants"
+title: "The mimesis"
 site: distill::distill_website
 listing: posts
 ---
