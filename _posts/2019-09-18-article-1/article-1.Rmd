@@ -1,8 +1,8 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Article 1"  
 author:
-  - name: Nicolas Devilez
-date: 09-18-2019
+  - name: Dylan Delporte
+date: 10-15-2019
 categories:
   - elephant
   - track
