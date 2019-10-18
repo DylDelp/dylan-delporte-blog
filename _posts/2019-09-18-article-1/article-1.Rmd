@@ -1,12 +1,11 @@
 ---
 title: "Article 1"  
-author:
-  - name: Dylan Delporte
-date: 10-15-2019
+author: 
+  - name: "Dylan Delporte"
+date: 10-17-2019
 categories:
-  - elephant
-  - track
-preview: image/where-s-my-elephant.jpg
+        - Mimecry of species
+preview: 
 output:
   distill::distill_article:
     self_contained: false
@@ -17,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
+![ ]()
 
 ## Vocabulary 
 
@@ -38,7 +37,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Remaining questions?         | (check if there are still interrogations at the end of the article) |
 
 
-<https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
+<https://www.worldatlas.com/articles/8-animals-that-exhibit-mimicry.html>
 
 
 
