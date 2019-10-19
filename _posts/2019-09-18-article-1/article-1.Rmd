@@ -23,15 +23,24 @@ knitr::opts_chunk$set(echo = FALSE)
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
 | Mimecry | Noun | Definition from the article: "an evolved resemblance in appearance or behavior between one organism and another, usually of a different species" |
-| To exhibit   | verb | To present something         |
-| To highlight  | verb  | To put in evidence                    |
-|  The marsh gentian | noun   | a plant  |
-| The  marsh       | noun | a swamp |
-| To trick      |   verb  |   To make an illusion , to cheat     |
-|               |       |                         |
+| To exhibit   | Verb | To present something         |
+| To highlight  | Verb  | To put in evidence                    |
+|  The marsh gentian | Noun   | A plant  |
+| The  marsh       | Noun | A swamp |
+| To trick      |   Verb  |   To make an illusion , to cheat     |
+| To hatch |  Verb     |  To get out of a egg |
+| The intruder |  Noun   |  Someone who come in unwelcome places    |
+| Loosely    |  Adverb  | Free        |
+|   A scales      |   Noun   |  A external piece of keratin like for turtles , birds, snakes and the tail of rats |
+|     To deter       |  Verb      |      To give fear, to discourage   |
 |               |        |                         |
-
-
+|               |        |                         |
+|               |        |                         |
+|               |        |                         |
+|               |        |                         |
+|               |        |                         |
+|               |        |                         |
+|               |        |                         |
 
 
 
