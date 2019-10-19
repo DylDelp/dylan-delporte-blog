@@ -1,7 +1,7 @@
 ---
-title: "Article 1"  
+title: "Article 1: 8 Animals That Exhibit Mimicry"  
 author: 
-  - name: "Dylan Delporte"
+  - name: "Victor KIPROP"
 date: 10-17-2019
 categories:
         - Mimecry of species
@@ -16,28 +16,59 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![ ]()
+![ ](image/Mimic Octopus.jpg )
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+| Mimecry | Noun | Definition from the article: "an evolved resemblance in appearance or behavior between one organism and another, usually of a different species" |
+| To exhibit   | verb | To present something         |
+| To highlight  | verb  | To put in evidence                    |
+|  The marsh gentian | noun   | a plant  |
+| The  marsh       | noun | a swamp |
+| To trick      |   verb  |   To make an illusion , to cheat     |
+|               |       |                         |
+|               |        |                         |
+
+
+
+
+
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Researchers                  | Victor KRIPROP , profession unknow                       |
+| Published in?                | 17 October 2019 at 5 PM                                                     |
+| General topic?               | The general topic is the 8 animals who can exhibit the mimecry |
+| Procedure/what was examined? |  Their abilities and how use there this ability |
+| Conclusions/discovery?       |  The author do a list about mimic specis
+| Remaining questions?         | There are no remaining questions at the end of the article 
 
 
+
+# Pictures of species present from the article mentioned
+
+The Alcon blue butterfly ( _Phengaris rebeli_ )
+
+![ ](image/the alcon blue butterfly.jpg )
+
+The marsh gentian ( _Gentiana puberulenta_ )
+
+![ ](image/Gentiana Puberulenta.gif )
+
+
+
+
+
+
+# citation of the article analysed 
+Kiprop, Victor. "8 Animals That Exhibit Mimicry." WorldAtlas, Oct. 17, 2019, worldatlas.com/articles/8-animals-that-exhibit-mimicry.html.
+
+# website
 <https://www.worldatlas.com/articles/8-animals-that-exhibit-mimicry.html>
-
+consulting the 18 october 2019 at 2 PM 
 
 
