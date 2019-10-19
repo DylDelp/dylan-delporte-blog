@@ -2,9 +2,17 @@
 title: "The mimesis"
 site: distill::distill_website
 listing: posts
+Image: ![mimic octopus](image/Mimic Octopus.jpg )
 ---
+
+ 
 
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
 ```
+
+
+
+
+
 
