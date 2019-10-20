@@ -57,7 +57,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers                  | Victor KRIPROP , profession unknow                       |
 | Published in?                | 17 October 2019 at 5 PM                                                     |
 | General topic?               | The general topic is the 8 animals who can exhibit the mimecry |
-| Procedure/what was examined? |  Their abilities and how they use this ability |
+| Procedure/what was examined? |   How they use their abilities  |
 | Conclusions/discovery?       |  The author do a list about mimic species
 | Remaining questions?         | There are no remaining questions at the end of the article 
 
