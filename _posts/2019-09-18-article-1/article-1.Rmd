@@ -63,7 +63,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-# Pictures of mimic species present from the article mentioned
+# Pictures of mimic species mentionned from the article 
 
 ## The Alcon blue butterfly 
 ( _Phengaris rebeli_ )
