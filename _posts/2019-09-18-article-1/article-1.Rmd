@@ -40,12 +40,12 @@ knitr::opts_chunk$set(echo = FALSE)
 |     To sink    |  Verb  |   To drop, To go down             |
 |       Harmless     |    Adjective   |   Safe         |
 |     Unsavory   |  Adjective  |    Disagreeable to eat              |
-|               |        |                         |
-|               |        |                         |
-|               |        |                         |
-|               |        |                         |
-|               |        |                         |
-|               |        |                         |
+| The Wings-click |  Noun  |   The fact of produse sound with wings |
+|    A maggot  |  Noun |    For example a larvae of fly      |
+|    A robin , a chat     |    Noun |    There are birds                  |
+| Dihedral forminf wings | Noun and adjectives | ![](image/Dihedral wings.gif ) |
+|  A wobble      |  Noun    |   A unsteady motion  |
+|     To trigger  |     Verb  |   To cause        |
 
 
 
@@ -89,9 +89,14 @@ The Katylid ( For example _Pseudophyllus titan_ )
 
 ![](image/Pseudophyllus titan.jpg )
 
+The snail eyestalk flatworms , a parasite of gasteropoda
+( _Leucochloridium paradoxum_ )
 
+![](image/Leucochloridium paradoxum.jpg )
 
+The zone-tailed hawk
 
+![](image/Zone-tailed hawk.jpg )
 
 
 # citation of the article analysed 
