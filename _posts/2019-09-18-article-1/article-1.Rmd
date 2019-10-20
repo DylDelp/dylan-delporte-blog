@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![ ](image/Mimic Octopus.jpg )
+![](image/Mimic Octopus.jpg )
 
 ## Vocabulary 
 
@@ -33,8 +33,13 @@ knitr::opts_chunk$set(echo = FALSE)
 | Loosely    |  Adverb  | Free        |
 |   A scales      |   Noun   |  A external piece of keratin like for turtles , birds, snakes and the tail of rats |
 |     To deter       |  Verb      |      To give fear, to discourage   |
-|               |        |                         |
-|               |        |                         |
+|     A mantis shrimp       |   Noun    |   A crustacean who punch his prey to capture him  |
+| To flatten   |  Verb |  To become plat          |
+| To raise     |  Verb  |   To elevate           |
+|   To bent     | Verb    |       To change the shape         |
+|     To sink    |  Verb  |   To drop, To go down             |
+|       Harmless     |    Adjective   |   Safe         |
+|     Unsavory   |  Adjective  |    Disagreeable to eat              |
 |               |        |                         |
 |               |        |                         |
 |               |        |                         |
@@ -58,23 +63,32 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-# Pictures of species present from the article mentioned
+# Pictures of mimic species present from the article mentioned
 
 The Alcon blue butterfly ( _Phengaris rebeli_ )
 
-![ ](image/the alcon blue butterfly.jpg )
-
-The marsh gentian ( _Gentiana puberulenta_ )
-
-![ ](image/Gentiana Puberulenta.gif )
+![](image/the alcon blue butterfly.jpg )
 
 The mimic octopus ( _Thaumoctopus mimicus_)
 
-![ ](image/mimic-octopus.jpg )
+![](image/mimic-octopus.jpg )
 
 The viceroy butterfly ( _Limenitis archippus_ )
 
-![ ](image/viceroy butterfly.jpg )
+![](image/viceroy butterfly.jpg )
+
+The milk snake ( _Lampropeltis triangulum_ )
+
+![](image/milk snake.jpg )
+
+The lyrebirds ( For example _Menura novaehollandiae_ )
+
+![](image/The lyrebirds.jpg )
+
+The Katylid ( For example _Pseudophyllus titan_ )
+
+![](image/Pseudophyllus titan.jpg )
+
 
 
 
