@@ -65,49 +65,49 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Pictures of mimic species present from the article mentioned
 
-The Alcon blue butterfly ( _Phengaris rebeli_ )
+## The Alcon blue butterfly ( _Phengaris rebeli_ )
 
 ![](image/the alcon blue butterfly.jpg )
 
 His larvae copies the smell of ants to be protected
 
 
-The mimic octopus ( _Thaumoctopus mimicus_)
+## The mimic octopus ( _Thaumoctopus mimicus_)
 
 ![](image/mimic-octopus.jpg )
 
 This animal imitate up to 50 different animals to fear his predators
 
 
-The viceroy butterfly ( _Limenitis archippus_ )
+## The viceroy butterfly ( _Limenitis archippus_ )
 
 ![](image/viceroy butterfly.jpg )
 
 He uses batesian mimecry to pretend that he is toxic like the monarch butterfly, it is not true.
 
 
-The milk snake ( _Lampropeltis triangulum_ )
+## The milk snake ( _Lampropeltis triangulum_ )
 
 ![](image/milk snake.jpg )
 
 He looks like a venimous snake but he is not venimous
 
 
-The lyrebirds ( For example _Menura novaehollandiae_ )
+## The lyrebirds ( For example _Menura novaehollandiae_ )
 
 ![](image/The lyrebirds.jpg )
 
 He copies another sound that he hears
 
 
-The Katylid ( For example _Pseudophyllus titan_ )
+## The Katylid ( For example _Pseudophyllus titan_ )
 
 ![](image/Pseudophyllus titan.jpg )
 
 He imitates the sounds of cicadas 
 
 
-The snail eyestalk flatworms , a parasite of gasteropoda
+## The snail eyestalk flatworms , a parasite of gasteropoda
 ( _Leucochloridium paradoxum_ )
 
 ![](image/Leucochloridium paradoxum.jpg )
@@ -115,7 +115,7 @@ The snail eyestalk flatworms , a parasite of gasteropoda
 He takes control of snail to be eaten 
 
 
-The zone-tailed hawk ( _Buteo albonotatus_ )
+## The zone-tailed hawk ( _Buteo albonotatus_ )
 
 ![](image/Zone-tailed hawk.jpg )
 
