@@ -2,7 +2,7 @@
 title: "The mimesis"
 site: distill::distill_website
 listing: posts
-Picture: ![](image/Mimic Octopus.jpg )
+
 ---
 
 ```{r, echo = FALSE, eval = FALSE}
