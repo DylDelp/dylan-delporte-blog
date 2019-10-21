@@ -47,6 +47,9 @@ knitr::opts_chunk$set(echo = FALSE)
 |  A wobble      |  Noun    |   A unsteady motion  |
 |     To trigger  |     Verb  |   To cause        |
 
+
+PDF avec le vocabulaire en évidence :
+
  <http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2Fdylan-delporte-blog%2F_posts%2F2019-09-18-article-1%2F8+Animals+That+Exhibit+Mimicry.pdf>
 
 
