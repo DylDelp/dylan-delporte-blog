@@ -14,5 +14,6 @@ navbar:
 base_url: http://DylDelp.github.io/Dylan-Delporte-blog/
 collections:
     posts:
+      disqus: dylans-blog-2 
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
