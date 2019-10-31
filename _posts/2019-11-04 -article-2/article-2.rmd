@@ -1,0 +1,44 @@
+---
+title: "Article 2: "  
+author: 
+  - name: ""
+date: 11-04-2019
+categories:
+        - Mimecry of species
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Vocabulary 
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+|  |  |  |
+|  |  |  |
+| |   |     |
+|   |  |   |
+| |  |  |
+|     |   |      |
+|  |   |   |
+|  |   |    |
+|     |   |     |
+|       |    |   |
+|       |      |    |
+|      |       |     |
+|    | |      |
+|  |  |    |
+|       |   |     |
+|  |   |           |
+|    |       |    |
+|        |    |         |
+
+
+
+
+

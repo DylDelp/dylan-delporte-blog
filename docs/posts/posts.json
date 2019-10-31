@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-11-04 -article-2/",
+    "title": "Article 2: ",
+    "description": {},
+    "author": [
+      {
+        "name": "",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-04",
+    "categories": [
+      "Mimecry of species"
+    ],
+    "preview": {},
+    "last_modified": "2019-10-31T14:31:11+01:00"
+  },
+  {
     "path": "posts/2019-09-18-article-1/",
     "title": "Article 1: 8 Animals That Exhibit Mimicry",
     "description": {},
