@@ -17,6 +17,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # The caterpillar of the peppered moth (Biston betularia)
 
+There is a video of what look like this species of lepidopterian
+
+
 ![](image/peppered_moth.MP4)
 
 
@@ -26,9 +29,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
-|  |  |  |
-|  |  |  |
-| |   |     |
+| A twig  |  Noun | A piece of wood from a tree |
+| To sense | Verb | It's the abilities of evolve in fonction of stimulus from the environment to can react by after |
+|  |   |     |
 |   |  |   |
 | |  |  |
 |     |   |      |
