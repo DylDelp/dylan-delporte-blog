@@ -18,12 +18,11 @@ knitr::opts_chunk$set(echo = FALSE)
 # The caterpillar of the peppered moth 
 (Biston betularia)
 
-There is a video of what look like this species of lepidopterian
+## The little story of the peppered moth :
 
+![](image/Story_peppered_moth.MP4)
 
-![](image/peppered_moth.MP4)
-
-
+# From the article
 
 
 ## Vocabulary 
@@ -37,8 +36,17 @@ There is a video of what look like this species of lepidopterian
 | The riddle | Noun | A enigma, a problem to solve like a mystery |
 | To blindfold | Verb | To cover eyes with a bandage for example |
 
+
+## PDF
+
 PDF of the article without pictures and with the vocabulary put in color:
 <https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2019-11-04%20-article-2/Caterpillars%20of%20the%20peppered%20moth%20perceive%20color%20through%20their%20skin.pdf>
+
+## The larvae of Biston betularia
+
+There is a video of what look like the larvae of this species of lepidopterian
+
+![](image/peppered_moth.MP4)
 
 ## Analysis table 
 
@@ -53,9 +61,7 @@ PDF of the article without pictures and with the vocabulary put in color:
 
 There is the official website of the MPI for Chemical Ecology for curious people  : <https://www.mpg.de/de>
 
-# The little story of the peppered moth :
 
-![](image/Story_peppered_moth.MP4)
 
 
 # Bibliography
