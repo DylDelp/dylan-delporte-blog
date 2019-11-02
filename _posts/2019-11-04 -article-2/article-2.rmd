@@ -15,6 +15,13 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# The caterpillar of the peppered moth (Biston betularia)
+
+![](image/peppered_moth.MP4)
+
+
+
+
 ## Vocabulary 
 
 | Words from the text | Functions   |  Synonym/explanation in English |
@@ -44,10 +51,10 @@ knitr::opts_chunk$set(echo = FALSE)
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | Max Planck Institute for Chemical Ecology |
-| Published in?                | 2 August 2019             |
-| General topic?               |  |
-| Procedure/what was examined? |     |
-| Conclusions/discovery?       |  |
+| Published in?                | 2 August 2019  |
+| General topic?               | The peppered moth's larvae |
+| Procedure/what was examined? |  His abilities to change color without see with his eyes |
+| Conclusions/discovery?       | This caterpillar can see his environment's colors with his skin and his eyes |
 | Remaining questions?         |  |
 
 There is the official website of the MPI for Chemical Ecology for curious people  : <https://www.mpg.de/de>
