@@ -1,8 +1,8 @@
 ---
-title: "Article 2: "  
+title: "Article 2: Caterpillars of the peppered moth perceive color through their skin"  
 author: 
-  - name: ""
-date: 11-04-2019
+  - name: "Dylan Delporte"
+date: 11-02-2019
 categories:
         - Mimecry of species
 preview: 
@@ -43,14 +43,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |                      |
-| Published in?                |                      |
+| Researchers                  | Max Planck Institute for Chemical Ecology |
+| Published in?                | 2 August 2019             |
 | General topic?               |  |
 | Procedure/what was examined? |     |
 | Conclusions/discovery?       |  |
 | Remaining questions?         |  |
 
-
+There is the official website of the MPI for Chemical Ecology for curious people  : <https://www.mpg.de/de>
 
 
 
