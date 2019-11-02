@@ -31,22 +31,12 @@ There is a video of what look like this species of lepidopterian
 | ------------------- | ------------|------------- |
 | A twig  |  Noun | A piece of wood from a tree |
 | To sense | Verb | It's the abilities of evolve in fonction of stimulus from the environment to can react by after |
-|  |   |     |
-|   |  |   |
-| |  |  |
-|     |   |      |
-|  |   |   |
-|  |   |    |
-|     |   |     |
-|       |    |   |
-|       |      |    |
-|      |       |     |
-|    | |      |
-|  |  |    |
-|       |   |     |
-|  |   |           |
-|    |       |    |
-|        |    |         |
+| The surrounding | Noun  | Everything who encircle something , the environment |
+| The diet | Noun | The food |
+| The riddle | Noun | A enigma, a problem to solve like a mystery |
+| To blindfold | Verb | To cover eyes with a bandage for example |
+
+PDF of the article without pictures and with the vocabulary put in color:
 
 
 ## Analysis table 
@@ -58,12 +48,20 @@ There is a video of what look like this species of lepidopterian
 | General topic?               | The peppered moth's larvae |
 | Procedure/what was examined? |  His abilities to change color without see with his eyes |
 | Conclusions/discovery?       | This caterpillar can see his environment's colors with his skin and his eyes |
-| Remaining questions?         |  |
+| Remaining questions?         | There are no remaining questions |
 
 There is the official website of the MPI for Chemical Ecology for curious people  : <https://www.mpg.de/de>
 
+# video 
 
+the video come from youtube 
+<https://www.youtube.com/watch?v=XBbAU1Y1PGY>
+watched the 2 November 2019
 
+# website
+
+<https://www.sciencedaily.com/releases/2019/08/190802104526.htm>
+consulting the 28 october 2019
 
 
 
