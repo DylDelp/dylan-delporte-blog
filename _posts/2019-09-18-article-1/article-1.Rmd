@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](image/Mimic Octopus.jpg )
 
-## Vocabulary 
+# Vocabulary 
 
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
@@ -55,7 +55,7 @@ PDF of the article without pictures and with the vocabulary put in color:
 <https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2019-09-18-article-1/8%20Animals%20That%20Exhibit%20Mimicry.pdf>
 
 
-## Analysis table 
+# Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
@@ -133,15 +133,15 @@ He takes control of snail to be eaten
 
 He looks like  of a vulture , specialy the turkey vulture by his behavior
 
-
-# citation of the article analysed 
+# Bibliography
+## citation of the article analysed 
 Kiprop, Victor. "8 Animals That Exhibit Mimicry." WorldAtlas, Oct. 17, 2019, worldatlas.com/articles/8-animals-that-exhibit-mimicry.html.
 
-# pictures
+## pictures
 
 All pictures are from the article or google image
 
-# website
+## website
 <https://www.worldatlas.com/articles/8-animals-that-exhibit-mimicry.html>
 consulting the 18 october 2019 at 2 PM 
 
