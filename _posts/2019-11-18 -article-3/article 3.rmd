@@ -11,3 +11,22 @@ output:
     self_contained: false
 ---
 
+```{r}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Vocabulary 
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  |
+| Published in?                |  |
+| General topic?               |  |
+| Procedure/what was examined? |   |
+| Conclusions/discovery?       |  |
+| Remaining questions?         |  |
