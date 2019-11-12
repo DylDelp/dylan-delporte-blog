@@ -5,6 +5,8 @@ author:
 date: 10-17-2019
 categories:
         - Mimecry of species
+        - Müllerian mimecry
+        - Batesian mimecry
 preview: 
 output:
   distill::distill_article:

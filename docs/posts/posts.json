@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-11-18 -article-3/",
+    "title": "Article 3: ",
+    "description": {},
+    "author": [
+      {
+        "name": "Dylan Delporte",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-18",
+    "categories": [
+      "Mimecry of species"
+    ],
+    "preview": {},
+    "last_modified": "2019-11-12T17:43:04+01:00"
+  },
+  {
     "path": "posts/2019-11-04 -article-2/",
     "title": "Article 2: Caterpillars of the peppered moth perceive color through their skin",
     "description": {},
@@ -11,10 +28,11 @@
     ],
     "date": "2019-11-02",
     "categories": [
-      "Mimecry of species"
+      "Mimecry of species",
+      "Mimecry of environment"
     ],
     "preview": {},
-    "last_modified": "2019-11-02T12:21:10+01:00"
+    "last_modified": "2019-11-12T17:41:44+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -22,16 +40,18 @@
     "description": {},
     "author": [
       {
-        "name": "Victor KIPROP",
+        "name": "Dylan Delporte",
         "url": {}
       }
     ],
     "date": "2019-10-17",
     "categories": [
-      "Mimecry of species"
+      "Mimecry of species",
+      "Müllerian mimecry",
+      "Batesian mimecry"
     ],
     "preview": {},
-    "last_modified": "2019-10-31T14:34:41+01:00"
+    "last_modified": "2019-11-12T17:42:09+01:00"
   },
   {
     "path": "posts/My english activity log/",
@@ -48,6 +68,6 @@
       "-My english activity log"
     ],
     "preview": {},
-    "last_modified": "2019-11-09T23:50:43+01:00"
+    "last_modified": "2019-11-09T23:58:04+01:00"
   }
 ]
