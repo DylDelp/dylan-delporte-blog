@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # The caterpillar of the peppered moth 
 (Biston betularia)
 
-## The little story of the peppered moth :
+## The little story of the peppered moth 
 
 ![](image/Story_peppered_moth.MP4)
 

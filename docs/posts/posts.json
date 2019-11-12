@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/2019-11-18 -article-3/",
-    "title": "Article 3: ",
+    "title": "Article 3: Mutual coevolution in Müllerian mimicry? Arguably, new data suggest yes ",
     "description": {},
     "author": [
       {
@@ -11,10 +11,11 @@
     ],
     "date": "2019-11-18",
     "categories": [
-      "Mimecry of species"
+      "Mimecry of species",
+      "Müllerian mimecry"
     ],
     "preview": {},
-    "last_modified": "2019-11-12T18:00:37+01:00"
+    "last_modified": "2019-11-12T23:43:45+01:00"
   },
   {
     "path": "posts/2019-11-04 -article-2/",
@@ -32,11 +33,11 @@
       "Mimecry of environment"
     ],
     "preview": {},
-    "last_modified": "2019-11-12T17:54:40+01:00"
+    "last_modified": "2019-11-12T18:34:58+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1: 8 Animals That Exhibit Mimicry",
+    "title": "Article 1 , 8 Animals That Exhibit Mimicry",
     "description": {},
     "author": [
       {
@@ -51,7 +52,7 @@
       "Batesian mimecry"
     ],
     "preview": {},
-    "last_modified": "2019-11-12T17:56:06+01:00"
+    "last_modified": "2019-11-12T18:36:06+01:00"
   },
   {
     "path": "posts/My english activity log/",

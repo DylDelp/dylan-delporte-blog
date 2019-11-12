@@ -1,10 +1,11 @@
 ---
-title: "Article 3: "  
+title: "Article 3: Mutual coevolution in Müllerian mimicry? Arguably, new data suggest yes "  
 author: 
   - name: "Dylan Delporte"
 date: 11-18-2019
 categories:
         - Mimecry of species
+        - Müllerian mimecry
 preview: 
 output:
   distill::distill_article:
@@ -15,18 +16,39 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# The Helicornius species
+
+
+# From the article
+
 ## Vocabulary 
 
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
+| Agruably |  |     |
+| Therefore |  |   |
+| Counterintuitive |  |  |
+| To prompt |Verb |  |
+|  |  |  |
+
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |  |
-| Published in?                |  |
-| General topic?               |  |
+| Researchers                 | Jen Hoyal Cuthill |
+| Published in?               | 27 August 2019 |
+| General topic?              | Heliconius species, a butterfly |
 | Procedure/what was examined? |   |
 | Conclusions/discovery?       |  |
 | Remaining questions?         |  |
+
+
+
+
+# Bibliography
+## Website
+
+<http://www.heliconius.org/2019/mutual-coevolution-in-mullerian-mimicry-arguably-new-data-suggest-yes/>
+consulting the 12 November 2019
+
