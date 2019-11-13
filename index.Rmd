@@ -2,7 +2,6 @@
 title: "The mimesis"
 site: distill::distill_website
 listing: posts
-figure: 
 ---
 
 ```{r, echo = FALSE, eval = FALSE}

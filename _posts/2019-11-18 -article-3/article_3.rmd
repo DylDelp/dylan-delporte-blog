@@ -36,7 +36,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                 | Jen Hoyal Cuthill |
+| Researchers ( author)                | Jen Hoyal Cuthill |
+| Author's picture   | ![](images/Jen hoyal culthill.jpg)|
 | Published in?               | 27 August 2019 |
 | General topic?              | Heliconius species, a butterfly |
 | Procedure/what was examined? |   |
