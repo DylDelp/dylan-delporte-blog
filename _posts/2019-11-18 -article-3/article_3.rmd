@@ -1,6 +1,6 @@
 ---
 title: "Article 3: Mutual coevolution in Müllerian mimicry? Arguably, new data suggest yes "  
-author: 
+author:
   - name: "Dylan Delporte"
 date: 11-18-2019
 categories:
@@ -25,23 +25,37 @@ knitr::opts_chunk$set(echo = TRUE)
 
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
-| Agruably |  |     |
-| Therefore |  |   |
-| Counterintuitive |  |  |
-| To prompt |Verb |  |
+| Agruably | Adverb | Problably, perhaps, maybe,...    |
+| Therefore | Adverb | As a result, so |
+| Counterintuitive | Adjective | Something opposed to a common-sense or intuitions |
+| To prompt |Verb | To encourage something, to cause something |
+| To dug down | Verb | To make a hole, in this context it is more  "To reseach" |
+| Pairwise | Adjective | Simular |
+| Inherent | Adjective | Fundamental |
+| Broadly | Adverb | In general without details |
+| Tricky | Adjective | Difficult |
+| The novelty | Noun | Something unusual, something new |
+| Markedly | Adverb | Obvious |
+| Somewhat | Adverb | A little |
+| The centroid | Noun | A geometric center |
+| The lineages | Noun | It's the descendants from a commun  ancestor |
+| Brand new | Adjective | Completely new |
+| Switcheroo (North USA , informal) | Noun | A change |
 |  |  |  |
+|  |  |  |
+
 
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers ( author)                | Jen Hoyal Cuthill |
+| Researchers ( author)                | Jennifer Hoyal Cuthill , reseachers from the Cambridge's University |
 | Author's picture   | ![](images/Jen hoyal culthill.jpg)|
 | Published in?               | 27 August 2019 |
 | General topic?              | Heliconius species, a butterfly |
 | Procedure/what was examined? |   |
-| Conclusions/discovery?       |  |
+| Conclusions/discovery?       | There are a co-evolution between two species of Heliconius |
 | Remaining questions?         |  |
 
 
@@ -52,4 +66,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <http://www.heliconius.org/2019/mutual-coevolution-in-mullerian-mimicry-arguably-new-data-suggest-yes/>
 consulting the 12 November 2019
+
+## Picture
+
+The author: 
+<http://www.heliconius.org/author/jfh41/>
+consulting the 13 November 2019
 
