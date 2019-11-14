@@ -54,7 +54,7 @@ knitr::opts_chunk$set(echo = TRUE)
 | Author's picture   | ![](images/Jen hoyal culthill.jpg)|
 | Published in?               | 27 August 2019 |
 | General topic?              | Heliconius species, a butterfly |
-| Procedure/what was examined? |   |
+| Procedure/what was examined? |The evolution of two species of butterfly , Heliconius species |
 | Conclusions/discovery?       | There are a co-evolution between two species of Heliconius |
 | Remaining questions?         |  |
 
