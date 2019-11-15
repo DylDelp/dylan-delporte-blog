@@ -74,6 +74,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](images/chart.jpg)
 
+## PDF
+PDF of the article without pictures and with the vocabulary put in color:
+
+<>
 
 # Bibliography
 
