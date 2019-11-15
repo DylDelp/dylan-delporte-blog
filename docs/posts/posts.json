@@ -37,7 +37,7 @@
   },
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 , 8 Animals That Exhibit Mimicry",
+    "title": "Article 1: 8 Animals That Exhibit Mimicry",
     "description": {},
     "author": [
       {
@@ -51,8 +51,8 @@
       "Müllerian mimecry",
       "Batesian mimecry"
     ],
-    "preview": {},
-    "last_modified": "2019-11-12T18:36:06+01:00"
+    "preview": "posts/2019-09-18-article-1/image/Mimic Octopus.jpg",
+    "last_modified": "2019-11-15T09:38:54+01:00"
   },
   {
     "path": "posts/My english activity log/",
