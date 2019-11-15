@@ -4,7 +4,7 @@ author:
   - name: "Dylan Delporte"
 date: 10-04-2019
 categories:
-        -My english activity log
+        - My english activity log
 preview: image/Crypt_TV_logo_(2018).jpg
 output:
   distill::distill_article:
