@@ -79,5 +79,6 @@ the videos come from youtube:
 <https://www.sciencedaily.com/releases/2019/08/190802104526.htm>
 consulting the 28 october 2019
 
-
+## Image 
+all remaining pictures come from google image
 

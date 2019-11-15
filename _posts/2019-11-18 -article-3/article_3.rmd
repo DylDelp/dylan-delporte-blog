@@ -41,10 +41,19 @@ knitr::opts_chunk$set(echo = TRUE)
 | The lineages | Noun | It's the descendants from a commun  ancestor |
 | Brand new | Adjective | Completely new |
 | Switcheroo (North USA , informal) | Noun | A change |
-|  |  |  |
-|  |  |  |
+| Advergence | Noun | In Biology the advergence is the evolutionary tendency where a species develops characteristics pairwise from another species. This mimic event looks like the co-evolution based of the Müllerian mimecry or the fact that a species imitate another model of species.
+| Correspondingly | Adverb | In consequence |
+| To grow up | Verb | To become an adult |
+| New-frangled (derogatory)| Adjective | Different of what we use usually |
+| Apt | Adjective | Given |
 
+### Morphology of butterfly
 
+| Anatomy | Word's function | Definition |
+|--------------------|--------------------|---------------------|
+| Forewing | Noun | The two first wings of insecta |
+| Hindwing | Noun | The two posterior wings of insecta|
+![](images/morphology of butterfly.jpg)
 
 ## Analysis table 
 
@@ -54,18 +63,22 @@ knitr::opts_chunk$set(echo = TRUE)
 | Author's picture   | ![](images/Jen hoyal culthill.jpg)|
 | Published in?               | 27 August 2019 |
 | General topic?              | Heliconius species, a butterfly |
-| Procedure/what was examined? |The evolution of two species of butterfly , Heliconius species |
+| Procedure/what was examined? |The evolution of two butterfly species of  Heliconius species |
 | Conclusions/discovery?       | There are a co-evolution between two species of Heliconius |
-| Remaining questions?         |  |
+| Remaining questions?         | There are "normaly" no remaining questions |
 
 
 
 
 # Bibliography
+
 ## Website
 
 <http://www.heliconius.org/2019/mutual-coevolution-in-mullerian-mimicry-arguably-new-data-suggest-yes/>
 consulting the 12 November 2019
+
+<https://www.lexico.com/en/definition/advergence>
+consulting the 15 November 2019
 
 ## Picture
 
@@ -73,3 +86,4 @@ The author:
 <http://www.heliconius.org/author/jfh41/>
 consulting the 13 November 2019
 
+the remaining pictures come from google image
