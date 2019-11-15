@@ -76,8 +76,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## PDF
 PDF of the article without pictures and with the vocabulary put in color:
-
-<>
+<https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2019-11-18%20-article-3/Mutual%20coevolution%20in%20M%C3%BCllerian%20mimicry%20Arguably%2C%20new%20data%20suggest%20yes.pdf>
 
 # Bibliography
 
