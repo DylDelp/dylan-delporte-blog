@@ -5,12 +5,11 @@ author:
 date: 10-04-2019
 categories:
         -My english activity log
-preview: 
+preview: image/Crypt_TV_logo_(2018).jpg
 output:
   distill::distill_article:
     self_contained: false
-    
----
+    ---
 
 
 # The message from teacher 

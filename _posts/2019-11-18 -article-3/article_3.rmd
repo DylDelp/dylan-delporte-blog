@@ -6,7 +6,7 @@ date: 11-18-2019
 categories:
         - Mimecry of species
         - Müllerian mimecry
-preview: 
+preview: image/peppered_moth.MP4
 output:
   distill::distill_article:
     self_contained: false
