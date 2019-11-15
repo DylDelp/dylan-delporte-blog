@@ -18,6 +18,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # The Helicornius species
 
+| Heliconius erato cyrbia | Heliconius melpomene cythera |
+|-----------------------------|--------------------------------|
+|![](images/Heliconius erato cyrbia.jpg)|![](images/Heliconius melpomene cythera.jpg)|
 
 # From the article
 
@@ -67,7 +70,9 @@ knitr::opts_chunk$set(echo = TRUE)
 | Conclusions/discovery?       | There are a co-evolution between two species of Heliconius |
 | Remaining questions?         | There are "normaly" no remaining questions |
 
+### Graphique of the resultats
 
+![](images/chart.jpg)
 
 
 # Bibliography
@@ -86,4 +91,4 @@ The author:
 <http://www.heliconius.org/author/jfh41/>
 consulting the 13 November 2019
 
-the remaining pictures come from google image
+the remaining pictures come from google image or the article
