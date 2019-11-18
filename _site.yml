@@ -15,5 +15,6 @@ collections:
       disqus: dylans-blog-2 
       share: [twitter, linkedin, facebook]
 output: 
-      distill::distill_article 
-      css:style.css
+      - distill::distill_article 
+      - css: -style.css
+             -color.css
