@@ -1,0 +1,31 @@
+---
+title: "Article 4: "
+author:
+  - name: "Dylan Delporte"
+date: "11/27/2019"
+categories:
+        - Mimicry of species
+        - Müllerian mimicry
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+
+
+
+
+
+# Bibliography 
+## website 
+
+https://www.pnas.org/content/pnas/116/24/11857.full.pdf?casa_token=tf0WueWSnk0AAAAA:wAeJHZ49IsJZbFFTIz3HFXy7kdDZrchDqHYEuY8uPtvPZuKoqSZVhqulzz3A_DU_MRGk8tLf5nyq0FSI
+consulting the 27 Novembrer 2019

@@ -2,11 +2,11 @@
 title: "Article 1: 8 Animals That Exhibit Mimicry"  
 author: 
   - name: "Dylan Delporte"
-date: 10-17-2019
+date: "10-17-2019"
 categories:
-        - Mimecry of species
-        - Müllerian mimecry
-        - Batesian mimecry
+        - Mimicry of species
+        - Müllerian mimicry
+        - Batesian mimicry
 preview: image/Mimic Octopus.jpg
 output:
   distill::distill_article:

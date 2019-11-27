@@ -2,10 +2,10 @@
 title: "Article 2: Caterpillars of the peppered moth perceive color through their skin"  
 author: 
   - name: "Dylan Delporte"
-date: 11-02-2019
+date: "11-02-2019"
 categories:
-        - Mimecry of species
-        - Mimecry of environment
+        - Mimicry of species
+        - Mimicry of environment
 preview: image/Peppered-moth-larva.jpg
 output:
   distill::distill_article:

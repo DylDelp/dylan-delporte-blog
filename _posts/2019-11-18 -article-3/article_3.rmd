@@ -2,10 +2,10 @@
 title: "Article 3: Mutual coevolution in Müllerian mimicry? Arguably, new data suggest yes "  
 author:
   - name: "Dylan Delporte"
-date: 11-18-2019
+date: "11-18-2019"
 categories:
-        - Mimecry of species
-        - Müllerian mimecry
+        - Mimicry of species
+        - Müllerian mimicry
 preview: images/morphology of butterfly.jpg
 output:
   distill::distill_article:

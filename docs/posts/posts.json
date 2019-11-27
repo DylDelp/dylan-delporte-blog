@@ -1,5 +1,23 @@
 [
   {
+    "path": "posts/2019-12-02-article-4/",
+    "title": "Article 4: ",
+    "description": {},
+    "author": [
+      {
+        "name": "Dylan Delporte",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-27",
+    "categories": [
+      "Mimicry of species",
+      "Müllerian mimicry"
+    ],
+    "preview": {},
+    "last_modified": "2019-11-27T10:54:44+01:00"
+  },
+  {
     "path": "posts/2019-11-18 -article-3/",
     "title": "Article 3: Mutual coevolution in Müllerian mimicry? Arguably, new data suggest yes ",
     "description": {},
@@ -15,7 +33,7 @@
       "Müllerian mimecry"
     ],
     "preview": "posts/2019-11-18 -article-3/images/morphology of butterfly.jpg",
-    "last_modified": "2019-11-18T19:58:06+01:00"
+    "last_modified": "2019-11-27T10:50:14+01:00"
   },
   {
     "path": "posts/2019-11-04 -article-2/",
