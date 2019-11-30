@@ -6,7 +6,7 @@ date: "11/27/2019"
 categories:
         - Mimicry of species
         - Müllerian mimicry
-preview: 
+preview: Bombus melanopygus.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -24,7 +24,11 @@ knitr::opts_chunk$set(echo = TRUE)
 | Homeotic | Adjective | Qualify a gene who has a rol in the development of the anatomy, organs or body|
 | Nonmodel system | Adjective and noun | A system who is not extensively studied |
 | Setal (setae) | Noun | a bristel, a thin hair |
-|                   |![](image/setal_forms.jpg) |                  |
+![](image/setal_forms.jpg)
+
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
 | To establish | | |
 | Cis-regulatory | | |
 | Fate-determining | | |
