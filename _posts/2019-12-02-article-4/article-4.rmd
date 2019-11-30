@@ -21,6 +21,23 @@ knitr::opts_chunk$set(echo = TRUE)
 
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
+| Homeotic | Adjective | Qualify a gene who has a rol in the development of the anatomy, organs or body|
+| Nonmodel system | Adjective and noun | A system who is not extensively studied |
+| Setal (setae) | Noun | a bristel, a thin hair |
+|                   |![](image/setal_forms.jpg) |                  |
+| To establish | | |
+| Cis-regulatory | | |
+| Fate-determining | | |
+| Pleotropy | Noun | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+
+
+
 
 
 # Analysis table 
