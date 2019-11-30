@@ -1,5 +1,5 @@
 ---
-title: "Article 4: "
+title: "Article 4: A homeotic shift late in development drives mimitic color variation in a bumble bee"
 author:
   - name: "Dylan Delporte"
 date: "11/27/2019"
@@ -17,7 +17,22 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
+# Vocabulary 
 
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+
+
+# Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  |
+| Published in?                |   |
+| General topic?               |  |
+| Procedure/what was examined? |     |
+| Conclusions/discovery?       |   |
+| Remaining questions?         |  |
 
 
 
@@ -33,5 +48,6 @@ consulting the 27 Novembrer 2019
 
 ## PDF to read the article 
 
+https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2019-12-02-article-4/article.full.pdf
 
 
