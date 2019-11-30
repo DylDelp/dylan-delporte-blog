@@ -39,13 +39,19 @@ knitr::opts_chunk$set(echo = TRUE)
 | Pleotropy | Noun | |
 | Decipher | | |
 | distasteful | | |
-| aposematic | | |
+| Aposematic | | |
 | insights| | |
 | co-opted | | |
 | introgression | | | 
 | To impart | | |
-| | | |
-| | | |
+| To uncover| | |
+| Melanin, Eumelanin, Pheomelanin| Noun| Pigments|
+| Pathway |Noun | |
+| Presumably| Adverb | | 
+| To alter| Verb | |
+| Upsteam| | |
+| To refine | | |
+| Fruitful | | |
 | | | |
 | | | | 
 | | | |
@@ -57,14 +63,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Analysis table 
 
-|                              |                                                                     |
+|               |                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |  |
-| Published in?                |   |
-| General topic?               |  |
-| Procedure/what was examined? |     |
-| Conclusions/discovery?       |   |
-| Remaining questions?         |  |
+| __Researchers From The Pennyslvania State University __| __Departement__|
+| Li Tian | Biology |
+| Sarthok Rasique Rahman | Biology|
+| Briana D. Ezray| Entomology |
+| Luca Franzini| Entomology | 
+| __Another Researches__ | James P.Strange ,Patrick LHomme and Heather M.Hines| 
+| __Published in?__                |  The 6 November 2019 |
+| __General topic?__               | The color variation observed by bumble bee  |
+| __Procedure/what was examined?__ |     |
+| __Conclusions/discovery?__       |   |
+| __Remaining questions?__         |  |
 
 
 
