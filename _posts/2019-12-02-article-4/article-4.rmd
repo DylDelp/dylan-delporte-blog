@@ -6,7 +6,7 @@ date: "11/27/2019"
 categories:
         - Mimicry of species
         - Müllerian mimicry
-preview: image/Bombus melanopygus.jpg
+preview: image/Bombus melanopygus.png
 output:
   distill::distill_article:
     self_contained: false
@@ -22,6 +22,10 @@ knitr::opts_chunk$set(echo = TRUE)
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
 | Homeotic | Adjective | Qualify a gene who has a rol in the development of the anatomy, organs or body|
+![](image/homeotic genes drosophila.jpg)
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
 | Nonmodel system | Adjective and noun | A system who is not extensively studied |
 | Setal (setae) | Noun | a bristel, a thin hair |
 ![](image/setal_forms.jpg)
@@ -29,17 +33,24 @@ knitr::opts_chunk$set(echo = TRUE)
 
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
-| To establish | | |
-| Cis-regulatory | | |
+| To establish | Verb | To set up |
+| A cis-regulatory locus| Noun | A non-coding area of DNA |
 | Fate-determining | | |
 | Pleotropy | Noun | |
+| Decipher | | |
+| distasteful | | |
+| aposematic | | |
+| insights| | |
+| co-opted | | |
+| introgression | | | 
+| To impart | | |
 | | | |
 | | | |
 | | | |
+| | | | 
 | | | |
 | | | |
-
-
+| | | |
 
 
 
@@ -71,4 +82,6 @@ consulting the 27 Novembrer 2019
 
 https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2019-12-02-article-4/article.full.pdf
 
+## Pictures
 
+All pictures are from the article or google image
