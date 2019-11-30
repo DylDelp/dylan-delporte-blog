@@ -6,7 +6,7 @@ date: "11/27/2019"
 categories:
         - Mimicry of species
         - Müllerian mimicry
-preview: Bombus melanopygus.jpg
+preview: image/Bombus melanopygus.jpg
 output:
   distill::distill_article:
     self_contained: false
