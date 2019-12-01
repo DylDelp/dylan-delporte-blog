@@ -94,7 +94,7 @@ How that was study ?
 | Trimming | Noun | something cut in small pieces |
 ## PDF
 PDF of the article without pictures and with the vocabulary put in color: 
-< >
+<https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2019-12-02-article-4/article4.pdf>
 
 # Analysis table 
 
