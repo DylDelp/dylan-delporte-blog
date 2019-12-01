@@ -36,20 +36,31 @@ knitr::opts_chunk$set(echo = TRUE)
 | To establish | Verb | To set up |
 | A cis-regulatory locus| Noun | A non-coding area of DNA |
 | Fate-determining | | |
-| Pleotropy | Noun | |
-| Decipher | | |
-| distasteful | | |
-| Aposematic | | |
-| insights| | |
-| co-opted | | |
-| introgression | | | 
-| To impart | | |
-| To uncover| | |
+| The pleotropy | Noun | It's a phenomenon where one gene influences two other genes or more than two|
+| To Decipher | Verb | To decrypt , decode|
+| Distasteful | Adjective | unpleasant |
+| Aposematic | Adjective | In zoology it's the phenomenon where a animal warm its predator that it's dangerous |
+| The insight(s)| Noun | the comprehension, the understanding |
+| To co-opt | Verb | To use in another role than the initial one|
+| The introgression | Noun| it's the transfer of gene between two species by theirs hybrid |
+
+How that was study ?
+![](image/introgression.jpg)
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+| To impart | Verb| to communicate, to confer|
+| To uncover| Verb | To found|
 | Melanin, Eumelanin, Pheomelanin| Noun| Pigments|
-| Pathway |Noun | |
-| Presumably| Adverb | | 
-| To alter| Verb | |
-| Upsteam| | |
+| Pathway |Noun | A serie of chemicals reactions catalysed by enzymes who are linked |
+| Presumably| Adverb | Probably | 
+| To alter | Verb | To change the natuur of something , its character or its composition|
+| Upstream | Adjective | In the other sens|
+
+![](image/upstream_downstream.png)
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
 | To refine | | |
 | Fruitful | | |
 | | | |
