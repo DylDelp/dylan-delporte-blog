@@ -1,0 +1,63 @@
+---
+title: "Article 5: Wing genes responsible for tiny treehopper's extraordinary helmet"
+author: 
+  - name: "Dylan Delporte"
+date: "12-16-2019"
+categories:
+        - Mimicry of species
+preview: image/cicadelle.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Vocabulary 
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+## PDF
+PDF of the article without pictures and with the vocabulary put in color: 
+
+# Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers          | Cera R. Fisher, Jill L. Wegrzyn, Elizabeth L. Jockusch from the University of Connecticut |
+| Published in?               | 9 december 2019 |
+| General topic?              |  |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |  |
+| Remaining questions?         |  |
+
+# Bibliography 
+
+## website 
+https://www.sciencedaily.com/releases/2019/12/191209112152.htm 
+
+consulted the 13 December 2019 at 2 PM and 28 minutes
+
+## Pictures
+
+All pictures are from google image
+
