@@ -19,6 +19,26 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
+| Treehopper | Noun | It's a bug living on trees and who has a thorn-shaped  |
+| Helmet | Noun | A hard hat |
+| To shed light | Verb | To explain  |
+| The headgear | Noun | All things who can wear your head |
+| The Kernel | Noun | A grain |
+| Cozy | Adjective | Something comfortable |
+| A mesh | Noun | A network |
+| Rooftop | Noun | The surface of the roof |
+| To feast | Verb | To make a good meal , To feed  |
+| To blow | Verb | To impress |
+| Indeed | Adverb | In fact ,to be sure  |
+| The thorn | Noun | a spine of tree |
+| To perch atop | Verb | To be on the peak of something|
+| To borrow | Verb |  |
+| To seek (sought,sought) | Verb | To resort |
+| To tackle | Verb | To take something forward |
+| Picky (informal) | Adjective | Fastidious |
+| Painstaking | Adjective | To do with a great care |
+| Smooth-surfaced | Adjective | Flat-surfaced |
+| To wade | Verb | To move with difficulty through something |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -32,9 +52,9 @@ knitr::opts_chunk$set(echo = FALSE)
 |  |  |  |
 |  |  |  |
 |  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+
+
+
 
 ## PDF
 PDF of the article without pictures and with the vocabulary put in color: 
