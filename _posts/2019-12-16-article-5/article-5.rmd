@@ -39,25 +39,24 @@ knitr::opts_chunk$set(echo = FALSE)
 | Painstaking | Adjective | To do with a great care |
 | Smooth-surfaced | Adjective | Flat-surfaced |
 | To wade | Verb | To move with difficulty through something |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-
+| Overwhelmingly | Adverb | With the majority |
+| Milkweed | Noun | The monarch butterfly |
+| To tinker | Verb | To experiment with something |
 
 
 ## PDF
 PDF of the article without pictures and with the vocabulary put in color: 
+<https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2019-12-16-article-5/Wing%20genes%20responsible%20for%20tiny%20treehopper.pdf>
+
+# Pictures of the two species mentionned in this article
+## _Entylia carinata_
+![](image/Entylia carinata.jpg) 
+
+![](image/Entylia carinata 1.jpg)
+## _Homalodisca vitripennis_
+![](image/Homalodisca vitripennis, Glassy winged sharpshooter.jpg)
+
+![](image/Homalodisca vitripennis.jpg)
 
 # Analysis table 
 
@@ -65,10 +64,10 @@ PDF of the article without pictures and with the vocabulary put in color:
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers          | Cera R. Fisher, Jill L. Wegrzyn, Elizabeth L. Jockusch from the University of Connecticut |
 | Published in?               | 9 december 2019 |
-| General topic?              |  |
-| Procedure/what was examined? |  |
-| Conclusions/discovery?       |  |
-| Remaining questions?         |  |
+| General topic?              | The helmet of Treehopper |
+| Procedure/what was examined? | The origin of this helmet |
+| Conclusions/discovery?       | The genes of the wings code this part of the treehoppers'body|
+| Remaining questions?         | "How do we get all these shapes? How do we get all this diversity?" Cera R.Fisher |
 
 # Bibliography 
 
