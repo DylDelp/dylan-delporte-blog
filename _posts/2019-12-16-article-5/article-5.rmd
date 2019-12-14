@@ -49,11 +49,15 @@ PDF of the article without pictures and with the vocabulary put in color:
 <https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2019-12-16-article-5/Wing%20genes%20responsible%20for%20tiny%20treehopper.pdf>
 
 # Pictures of the two species mentionned in this article
-## _Entylia carinata_
+
+## Camelback treehopper ( _Entylia carinata_ )
+
 ![](image/Entylia carinata.jpg) 
 
 ![](image/Entylia carinata 1.jpg)
-## _Homalodisca vitripennis_
+
+## Glassy winged sharpshooter ( _Homalodisca vitripennis_ )
+
 ![](image/Homalodisca vitripennis, Glassy winged sharpshooter.jpg)
 
 ![](image/Homalodisca vitripennis.jpg)
