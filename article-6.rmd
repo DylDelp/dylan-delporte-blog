@@ -1,11 +1,12 @@
 ---
-title: "Article 5: Wing genes responsible for tiny treehopper's extraordinary helmet"
+title: "Article 6: Deaf moth evolves sound-production as a warming to outwit its production "
 author: 
   - name: "Dylan Delporte"
-date: "12-16-2019"
+date: "02-16-2019"
 categories:
         - Mimicry of species
-preview: image/cicadelle.jpg
+        - 
+preview: 
 output:
   distill::distill_article:
     self_contained: false
@@ -19,6 +20,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
+| Deaf | Adjective | unable of listen  | 
+| To outwit  | Verb |     | 
+| High-tuned |  Adjective |     | 
+| To tune | Verb |     | 
+| The silk moths | Noun |     | 
+| Salient |     |     | 
+| The towed decoys fighter planes | Noun and adjective |     | 
+| Unpalatable  | Adjective |     | 
+| Conspicuous | Adjective |     | 
+| Distablefulness | Noun |     | 
+| Buckless |     |     | 
+| To snap back | Verb |     | 
 
 
 ## PDF
