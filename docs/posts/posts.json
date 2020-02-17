@@ -107,5 +107,24 @@
     ],
     "preview": "posts/My english activity log/image/Crypt_TV_logo_(2018).jpg",
     "last_modified": "2019-11-18T19:49:37+01:00"
+  },
+  {
+    "path": "posts/2020-02-16-article-6/",
+    "title": "Article 6 : The giant squid genome holds surprises ",
+    "description": {},
+    "author": [
+      {
+        "name": "Dylan Delporte",
+        "url": {}
+      }
+    ],
+    "date": "2019-02-17",
+    "categories": [
+      "Mimicry of species",
+      "Müllerian mimicry",
+      "Mimicry of environment"
+    ],
+    "preview": {},
+    "last_modified": "2020-02-17T09:39:48+01:00"
   }
 ]
