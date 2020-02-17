@@ -2,12 +2,12 @@
 title: "Article 6 : The giant squid genome holds surprises "
 author: 
   - name: "Dylan Delporte"
-date: "02-17-2019"
+date: "02-17-2020"
 categories:
         - Mimicry of species
         - Müllerian mimicry
         - Mimicry of environment
-preview: the article is not ending because some bug of wifi and Rstudio  caused a lack of time
+preview: this article is not ending because some bug of wifi and Rstudio  caused a lack of time
 output:
   distill::distill_article:
     self_contained: false

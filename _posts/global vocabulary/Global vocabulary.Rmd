@@ -1,12 +1,18 @@
 ---
 title: "Vocabulary from articles"
-author: "Dylan Delporte"
-date: "2/17/2020"
-output: html_document
+author: 
+  - name: "Dylan Delporte"
+date: "02-17-2020"
+categories:
+        - vocabulary
+preview: this article is not ending because some bug of wifi and Rstudio  caused a lack of time
+output:
+  distill::distill_article:
+    self_contained: false
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # A

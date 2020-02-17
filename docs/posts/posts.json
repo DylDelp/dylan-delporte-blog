@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2020-02-16-article-6/",
+    "title": "Article 6 : The giant squid genome holds surprises ",
+    "description": {},
+    "author": [
+      {
+        "name": "Dylan Delporte",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-17",
+    "categories": [
+      "Mimicry of species",
+      "Müllerian mimicry",
+      "Mimicry of environment"
+    ],
+    "preview": {},
+    "last_modified": "2020-02-17T23:25:41+01:00"
+  },
+  {
     "path": "posts/2019-12-16-article-5/",
     "title": "Article 5: Wing genes responsible for tiny treehopper's extraordinary helmet",
     "description": {},
@@ -109,8 +128,8 @@
     "last_modified": "2019-11-18T19:49:37+01:00"
   },
   {
-    "path": "posts/2020-02-16-article-6/",
-    "title": "Article 6 : The giant squid genome holds surprises ",
+    "path": "posts/global vocabulary/",
+    "title": "Vocabulary from articles",
     "description": {},
     "author": [
       {
@@ -120,11 +139,9 @@
     ],
     "date": "2019-02-17",
     "categories": [
-      "Mimicry of species",
-      "Müllerian mimicry",
-      "Mimicry of environment"
+      "vocabulary"
     ],
     "preview": {},
-    "last_modified": "2020-02-17T23:21:41+01:00"
+    "last_modified": "2020-02-17T23:24:43+01:00"
   }
 ]
