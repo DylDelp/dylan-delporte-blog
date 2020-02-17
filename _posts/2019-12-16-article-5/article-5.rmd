@@ -32,7 +32,7 @@ knitr::opts_chunk$set(echo = TRUE)
 | Indeed | Adverb | In fact ,to be sure  |
 | The thorn | Noun | a spine of tree |
 | To perch atop | Verb | To be on the peak of something|
-| To borrow | Verb |  |
+| To borrow | Verb | To take something with the aim to return it |
 | To seek (sought,sought) | Verb | To resort |
 | To tackle | Verb | To take something forward |
 | Picky (informal) | Adjective | Fastidious |

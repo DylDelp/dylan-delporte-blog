@@ -21,34 +21,91 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
+| Elusive | | | 
+| Sporting  | | | 
+| Telltale | | | 
+| Ashore | | | 
+| Battling | | | 
+| The sperm whale | Noun | | 
+| To mesmerize | Verb | | 
+| A Diorama | Noun | | 
+| To intrigue | Verb | | 
+| To arose from | Verb  | | 
+| To witness| Verb | | 
+| To sketch | Verb | | 
+| A eel | Noun | |
+| Eclectic | Noun | |
+| Slimy | Adjective | |
+| To maroon| Verb | |
+| A beak| Noun | |
+| Realm | | |
+| The counterpart | Noun | |
+| The cuttlefish(es) | Noun | |
+| Squishy | Adjective| |
+| Pygmy squids| Noun | |
+| To grab | Verb| |
+| The mantle| Noun | |
+| To propel| Verb| |
+| A layer | Noun | |
+| To tip | Verb | | 
+| emanate | | |
+| A salami slicer | Noun | |
+| To probe| Verb | |
+| A handful | Noun| |
+| To overlap| Verb | |
+| Sufficiently | Adverb | |
+| pending | Adjective | |
+| Alas | | |
+| To shatter| Verb | |
+| A lump| Noun | |
+
 
 ## PDF
-PDF of the article without pictures and with the vocabulary put in color:
+PDF of the article without pictures and with the vocabulary put in yellow:
 
 <>
 
+# species mentionned in the article (in red in the text )
+
+## The cuttlefishes
+
+
+
+## The octopuses
+
+The two-spot octopus
+
+## The squids
+
+The giant squid , _Architeudis dux_
+
+_Mesonychoteuthis hamiltoni_
+
+Pygmy squids
+
+The clubhook squid
+
+The humblock squid
+
+The purpleback squid
+
+## The nautilusses
+
+## Another species of Mollusca
+
+The Pacific Oyster
+
+The giant owl limpet
 
 # Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Victor KRIPROP , profession unknow                       |
-| Published in?                | 17 October 2019 at 5 PM                                                     |
-| General topic?               | The general topic is the 8 animals who can exhibit the mimecry |
-| Procedure/what was examined? |   How they use their abilities  |
-| Conclusions/discovery?       |  The author do a list about mimic species |
+| Researchers                  |     Ricky Lewis | 
+|Bibliography of the researchers | <http://www.rickilewis.com/>  consulting the 17th of February 2020    |
+| Published in?                | 10 February 2020 on the website "Technology.org" and the 6 February on the website "DNAscience"                                                  |
+| General topic?               | The general topic is the giant squids genome | How they use their abilities  |
+| Conclusions/discovery?       |   |
 | Remaining questions?         | There are no remaining questions at the end of the article |
 
 # Bibliography
@@ -58,9 +115,14 @@ PDF of the article without pictures and with the vocabulary put in color:
 All pictures are from the article or google image
 
 ## website
+
 <https://www.technology.org/2020/02/10/the-giant-squid-genome-holds-surprises/>
-consulting the 15 February 2020 at  PM 
+consulting the 15 February 2020 
 
+<https://blogs.plos.org/dnascience/2020/02/06/the-giant-squid-genome-holds-surprises/>
+consulting the 17 February 2020
 
+<http://www.rickilewis.com/>
+consulting the 17 February 2020
 
 
