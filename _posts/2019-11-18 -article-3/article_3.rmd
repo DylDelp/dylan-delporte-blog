@@ -13,7 +13,7 @@ output:
 ---
 
 ```{r}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # The Helicornius species

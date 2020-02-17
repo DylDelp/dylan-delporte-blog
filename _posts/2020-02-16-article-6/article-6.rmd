@@ -1,11 +1,12 @@
 ---
-title: "Article 6 : Deaf moth evolves sound-production as a warming to outwit its production "
+title: "Article 6 : The giant squid genome holds surprises "
 author: 
   - name: "Dylan Delporte"
-date: "02-16-2019"
+date: "02-17-2019"
 categories:
         - Mimicry of species
         - Müllerian mimicry
+        - Mimicry of environment
 preview: 
 output:
   distill::distill_article:
@@ -13,45 +14,52 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Vocabulary 
 
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
-| Deaf | Adjective | unable of listen  | 
-| To outwit  | Verb |     | 
-| High-tuned |  Adjective |     | 
-| To tune | Verb |     | 
-| The silk moths | Noun |     | 
-| Salient |     |     | 
-| The towed decoys fighter planes | Noun and adjective |     | 
-| Unpalatable  | Adjective |     | 
-| Conspicuous | Adjective |     | 
-| Distablefulness | Noun |     | 
-| Buckless |     |     | 
-| To snap back | Verb |     | 
-
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
 
 ## PDF
 PDF of the article without pictures and with the vocabulary put in color:
 
-<https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2020-02-16-article-6/Deaf%20moth%20evolves%20sound-production%20as%20a%20warning%20to%20outwit%20its%20predator.pdf>
+<>
 
 
 # Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Liam J. O'Reilly, David J. L. Agassiz, Thomas R. Neil & Marc W. Holderied |
-| Published in?                |  5 February 2019 ( retrieved by Science Daily the 16th of February 2020 ) |
-| General topic?               | The sounds produced by deaf moth |
-| Procedure/what was examined? |  |
-| Conclusions/discovery?       |   |
-| Remaining questions?         | There are no remaining question |
+| Researchers                  | Victor KRIPROP , profession unknow                       |
+| Published in?                | 17 October 2019 at 5 PM                                                     |
+| General topic?               | The general topic is the 8 animals who can exhibit the mimecry |
+| Procedure/what was examined? |   How they use their abilities  |
+| Conclusions/discovery?       |  The author do a list about mimic species |
+| Remaining questions?         | There are no remaining questions at the end of the article |
 
+# Bibliography
 
+## pictures
+
+All pictures are from the article or google image
+
+## website
+<https://www.technology.org/2020/02/10/the-giant-squid-genome-holds-surprises/>
+consulting the 15 February 2020 at  PM 
 
 
 
