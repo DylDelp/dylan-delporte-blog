@@ -1,0 +1,37 @@
+---
+title: "Article 6 : Coming soon  "
+author: 
+  - name: "Dylan Delporte"
+date: "02-17-2019"
+categories:
+        - Mimicry of species
+        - 
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Vocabulary 
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+| | | | 
+
+
+

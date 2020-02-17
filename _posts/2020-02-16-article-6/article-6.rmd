@@ -1,11 +1,11 @@
 ---
-title: "Article 6: Deaf moth evolves sound-production as a warming to outwit its production "
+title: "Article 6 : Deaf moth evolves sound-production as a warming to outwit its production "
 author: 
   - name: "Dylan Delporte"
 date: "02-16-2019"
 categories:
         - Mimicry of species
-        - 
+        - Müllerian mimicry
 preview: 
 output:
   distill::distill_article:
@@ -37,19 +37,19 @@ knitr::opts_chunk$set(echo = TRUE)
 ## PDF
 PDF of the article without pictures and with the vocabulary put in color:
 
-
+<https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2020-02-16-article-6/Deaf%20moth%20evolves%20sound-production%20as%20a%20warning%20to%20outwit%20its%20predator.pdf>
 
 
 # Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |  |
-| Published in?                |     |
-| General topic?               |  |
-| Procedure/what was examined? |     |
+| Researchers                  | Liam J. O'Reilly, David J. L. Agassiz, Thomas R. Neil & Marc W. Holderied |
+| Published in?                |  5 February 2019 ( retrieved by Science Daily the 16th of February 2020 ) |
+| General topic?               | The sounds produced by deaf moth |
+| Procedure/what was examined? |  |
 | Conclusions/discovery?       |   |
-| Remaining questions?         | |
+| Remaining questions?         | There are no remaining question |
 
 
 
