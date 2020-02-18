@@ -7,7 +7,7 @@ categories:
         - Mimicry of species
         - Müllerian mimicry
         - Mimicry of environment
-preview: this article is not ending because some bug of wifi and Rstudio  caused a lack of time
+preview: 
 output:
   distill::distill_article:
     self_contained: false
@@ -21,32 +21,26 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
-| Elusive | | | 
-| Sporting  | | | 
-| Telltale | | | 
-| Ashore | | | 
-| Battling | | | 
-| The sperm whale | Noun | | 
-| To mesmerize | Verb | | 
-| A Diorama | Noun | | 
-| To intrigue | Verb | | 
-| To arose from | Verb  | | 
-| To witness| Verb | | 
-| To sketch | Verb | | 
-| A eel | Noun | |
-| Eclectic | Noun | |
-| Slimy | Adjective | |
-| To maroon| Verb | |
-| A beak| Noun | |
-| Realm | | |
-| The counterpart | Noun | |
-| The cuttlefish(es) | Noun | |
-| Squishy | Adjective| |
-| Pygmy squids| Noun | |
-| To grab | Verb| |
-| The mantle| Noun | |
-| To propel| Verb| |
-| A layer | Noun | |
+| Elusive | Adjective | To be difficult to reach| 
+| Sporting  | Adjective | To be generous  | 
+| Telltale | Adjetive | Indicating| 
+| Ashore | Adverb | coming up to the sea | 
+| To mesmerize | Verb | To hypnotize | 
+| A Diorama | Noun | A model in three dimention | 
+| To intrigue | Verb | to captive | 
+| To arise from (arose, arose, arisen) | Verb  |To start to exist |
+| To witness the event| Verb | To see the even | 
+| To sketch | Verb | To draw, describe something | 
+| Eclectic | Adjective | Wide |
+| Slimy | Adjective | Like slime|
+| To maroon| Verb | To be lost |
+| A beak| Noun | A  piece of the anatomy used to break the food like for bird on the mouth|
+| The realm | Noun  | A kingdom|
+| The counterpart | Noun | Something with the same function than another thing |
+| Squishy | Adjective| Soft |
+| The mantle| Noun | The pallium, a piece ofthe anatomy of Mollusca able to create a exoskeleton or a endoskeleton to protect the visceral mass |
+| To propel| Verb| To move forward or onward|
+| A layer | Noun | It's relative to the endoskeleton in this article |
 | To tip | Verb | | 
 | emanate | | |
 | A salami slicer | Noun | |
@@ -67,15 +61,17 @@ PDF of the article without pictures and with the vocabulary put in yellow:
 
 # species mentionned in the article (in red in the text )
 
-## The cuttlefishes
+## Phyllum of Mollusca, Class of Cephalopoda
+
+### SubClass of the cuttlefishes
 
 
 
-## The octopuses
+### SubClass of the octopuses
 
 The two-spot octopus
 
-## The squids
+### SubClass of The squids
 
 The giant squid , _Architeudis dux_
 
@@ -89,13 +85,21 @@ The humblock squid
 
 The purpleback squid
 
-## The nautilusses
+### SubClass of The nautilusses
 
-## Another species of Mollusca
-
+## Phyllum of the Mollusca, Class of Bivalva
 The Pacific Oyster
 
-The giant owl l impet
+## Phyllum of the Mollusca, Class of Gasteropoda
+The giant owl limpet
+
+## Another species
+
+The sperm whale 
+
+The eel 
+
+The giant seal
 
 # Analysis table 
 
