@@ -63,51 +63,78 @@ knitr::opts_chunk$set(echo = FALSE)
 ## PDF
 PDF of the article without pictures and with the vocabulary put in yellow:
 
-<>
+<https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2020-02-16-article-6/The%20Giant%20Squid%20Genome%20Holds%20Surprises.pdf>
 
 # species mentionned in the article (in red in the text )
 
 ## Phyllum of Mollusca, Class of Cephalopoda
 
-### SubClass of the cuttlefishes
-
-
-
 ### SubClass of the octopuses
 
 The two-spot octopus
 
+![](image/california two spot octopus.jpg)
+
 ### SubClass of The squids
 
-The giant squid , _Architeudis dux_
+1) The giant squid , _Architeuthis dux_
 
-_Mesonychoteuthis hamiltoni_
+![](image/giant squid.jpg)
 
-Pygmy squids
+2) The colossal squid, _Mesonychoteuthis hamiltoni_
 
-The clubhook squid
+![](image/mesonychoteuthis hamiltoni.jpg)
 
-The humblock squid
+3) Pygmy squids, _Idiosepius paradoxus_
 
-The purpleback squid
+![](image/Idiosepius paradoxus.jpg)
 
-The Hawaiian bobtail squid
+4) The angel clubhook squid, _Ancistroteuthis lichtensteinii_
 
-### SubClass of The nautilusses
+![](image/Ancistroteuthis lichtensteinii.jpg)
+
+5) The robust clubhook squid, _Onykia robusta_
+
+![](image/Onykia robusta.jpg)
+
+6) The Humboldt squid or jumbo squid, _Dosidicus gigas_
+
+![](image/Dosidicus gigas.jpg)
+
+7) The purpleback ( flying ) squid, _Sthenoteuthis oualaniensis_
+
+![](image/Sthenoteuthis oualaniensis.jpg)
+
+8) The Hawaiian bobtail squid or Bigfin reef squid, _Sepioteuthis lessonianna_
+
+![](image/Sepioteuthis lessoniana.jpg)
+
 
 ## Phyllum of the Mollusca, Class of Bivalva
-The Pacific Oyster
+
+The Pacific Oyster, _Crassostrea gigas_
+
+![](image/Crassostrea gigas.jpg)
 
 ## Phyllum of the Mollusca, Class of Gasteropoda
-The giant owl limpet
+
+The giant owl limpet, _Lottia gigantea_
+
+![](image/Lottia gigantea.jpg)
 
 ## Another species
 
-The sperm whale 
+1) The sperm whale or cachalot, _Physeter macrocephalus_
 
-The eel 
+![](image/Physeter macrocephalus.jpg)
 
-The giant seal
+2) The eel, Order of Anguilliformes
+
+![](image/anguilliformes.jpg)
+
+3) The giant seal
+
+![](image/seal.jpg)
 
 # Analysis table 
 
