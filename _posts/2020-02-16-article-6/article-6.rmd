@@ -41,17 +41,23 @@ knitr::opts_chunk$set(echo = FALSE)
 | The mantle| Noun | The pallium, a piece ofthe anatomy of Mollusca able to create a exoskeleton or a endoskeleton to protect the visceral mass |
 | To propel| Verb| To move forward or onward|
 | A layer | Noun | It's relative to the endoskeleton in this article |
-| To tip | Verb | | 
-| emanate | | |
-| A salami slicer | Noun | |
-| To probe| Verb | |
-| A handful | Noun| |
-| To overlap| Verb | |
-| Sufficiently | Adverb | |
-| pending | Adjective | |
-| Alas | | |
-| To shatter| Verb | |
-| A lump| Noun | |
+| To tip | Verb | To move down | 
+| To emanate | Verb | To proceed |
+| A salami slicer | Noun | A piece of meal cut in small piece |
+| To probe| Verb | To ask quetions and find information to reach the answer |
+| A handful | Noun | A small amount that we can hand |
+| To overlap| Verb | To cover partly|
+| Sufficiently | Adverb | Enough |
+| pending | Adjective | Uncertain|
+| Alas | Abbreviation | Alaska|
+| To shatter| Verb | To break |
+| A lump| Noun | A irregular compact mass|
+| To flesh out | Verb | To provide more information |
+| To harbor |Verb | To provide a safe place|
+| The dozen | Noun | A set of 12 objects| 
+| To cluster | Verb | To come in the same time | 
+|The array(s) | Noun | The arrangement |
+
 
 
 ## PDF
@@ -84,6 +90,8 @@ The clubhook squid
 The humblock squid
 
 The purpleback squid
+
+The Hawaiian bobtail squid
 
 ### SubClass of The nautilusses
 
