@@ -57,6 +57,20 @@ knitr::opts_chunk$set(echo = FALSE)
 | The dozen | Noun | A set of 12 objects| 
 | To cluster | Verb | To come in the same time | 
 |The array(s) | Noun | The arrangement |
+|The trademark |Noun | A logo|
+|To glow| Verb| To shine|
+|To blend| Verb| To mix|
+|To knit variations on proteins|Verb| To modify proteins|
+|To retain| Verb| To maintain|
+|To stretch| Verb| To expand|
+| A bench | Noun| A long table|
+|Blobby| Adjective| Viscous |
+|Seemingly| Adverb |Apparently|
+|The intricacy |Noun| The act to be complex | 
+| Feathery|Adjective | Like feathe , plumed|
+| To enshroud| Verb| To hide|
+|Awe-inspiring|Adjective| To cause fear being magnificient|
+
 
 
 
@@ -136,6 +150,7 @@ The giant owl limpet, _Lottia gigantea_
 
 ![](image/seal.jpg)
 
+4) The spider mite 
 # Analysis table 
 
 |                              |                                                                     |
@@ -144,7 +159,7 @@ The giant owl limpet, _Lottia gigantea_
 |Bibliography of the researchers | <http://www.rickilewis.com/>  consulting the 17th of February 2020    |
 | Published in?                | 10 February 2020 on the website "Technology.org" and the 6 February on the website "DNAscience"                                                  |
 | General topic?               | The general topic is the giant squids genome  |
-| Conclusions/discovery?       | |
+| Conclusions/discovery?       | If species lose Hox Genes or if species gain Hox gene, its body plan will change. That have for consequence that the species can lose or gain a fundamental advantage to survive from the natural selection |
 | Remaining questions?         | There are no remaining questions at the end of the article |
 
 # Bibliography
