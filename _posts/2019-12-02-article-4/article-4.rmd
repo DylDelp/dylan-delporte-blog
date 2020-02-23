@@ -35,7 +35,7 @@ knitr::opts_chunk$set(echo = TRUE)
 | ------------------- | ------------|------------- |
 | To establish | Verb | To set up |
 | A cis-regulatory locus| Noun | A non-coding area of DNA |
-| Fate-determining | | |
+| Fate-determining | Noun | It's the fact of understand how a cell in particular becomes a final part of a organism|
 | The pleotropy | Noun | It's a phenomenon where one gene influences two other genes or more than two|
 | To Decipher | Verb | To decrypt , decode|
 | Distasteful | Adjective | unpleasant |

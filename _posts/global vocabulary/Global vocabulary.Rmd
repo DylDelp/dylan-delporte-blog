@@ -19,48 +19,82 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | ------- | ------------------- | ------------|------------- |
+|3| Advergence | Noun | In Biology the advergence is the evolutionary tendency where a species develops characteristics pairwise from another species. This mimic event looks like the co-evolution based of the Müllerian mimecry or the fact that a species imitate another model of species.
+|4| Adulthood | Noun | The mature state of an isect |
 |3| Agruably | Adverb | Problably, perhaps, maybe,...    |
+|4| To alter | Verb | To change the natuur of something , its character or its composition|
+|4| Aposematic | Adjective | In zoology it's the phenomenon where a animal warm its predator that it's dangerous |
+|3| Apt | Adjective | Given |
+|4| The avoidance | Noun | It's the fact to avoid something|
 
 # B
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | --------- | ---------- | ------------|------------- |
+|4| corbicula pollen basket | Noun | a cavity where the pollen is stocked ,surrounded by setae |
+![](image/honeybee_hindleg.jpg)
+
+| Article | Words from the text | Functions   |  Synonym/explanation in English |
+| --------- | ---------- | ------------|------------- |
 |1|   To bent     | Verb    |       To change the shape         |
 |2| To blindfold | Verb | To cover eyes with a bandage for example |
+|5| To blow | Verb | To impress |
+|3| Brand new | Adjective | Completely new |
 |3| Broadly | Adverb | In general without details |
 
 # C
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | ---------- | --------- | ------------|------------- |
+|4| Callow | Adjective | Immature , without experience|
+|3| The centroid | Noun | A geometric center |
+|4| A cis-regulatory locus| Noun | A non-coding area of DNA |
 |1|    A chat   |    Noun |    It's a bird                  |
+|4| Male sex comb | Noun | something that use Drosophila to grasp on the female |
+|4| To co-opt | Verb | To use in another role than the initial one|
+|3| Correspondingly | Adverb | In consequence |
 |3| Counterintuitive | Adjective | Something opposed to a common-sense or intuitions |
+|5| Cozy | Adjective | Something comfortable |
 
 # D
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | ----------- | -------- | ------------|------------- |
+|4| To Decipher | Verb | To decrypt , decode|
+|4| Demarcating | Adjective | Separed|
+|4| Desiquilibrium | Noun | Destability|
+|1| To deter   |  Verb   |  To give fear, to discourage   |
 |2| The diet | Noun | The food |
 |1| Dihedral forming wings | Noun and adjectives | ![](image/Dihedral wings.gif ) |
-|1| To deter   |  Verb   |  To give fear, to discourage   |
+|4| Distasteful | Adjective | unpleasant |
 |3| To dug down | Verb | To make a hole, in this context it is more  "To reseach" |
 
 # E
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------ | ------- | ------------|------------- |
+|4| To establish | Verb | To set up |
+|4| Eumelanin| Noun | Pigment|
 | 1 | To exhibit   | Verb | To present something         |
 
 # F
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------- | ------ | ------------|------------- |
+|4| Fate-determining | Noun | It's the fact of understand how a cell in particular becomes a final part of a organism|
+|5| To feast | Verb | To make a good meal , To feed  |
+|4| Ferruginous | Adjective| holding within iron oxyde |
 |1| To flatten   |  Verb |  To become plat          |
+|3| Forewing | Noun | The two first wings of insecta |
+|4| Forelimb(s) | Noun | Posterior member |
+|4| Fruitful | Adjective | Fertile, productive |
 
 # G
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | --------- | ---------- | ------------|------------- |
+|4| Geyish| Adjective | A bit grey |
+|3| To grow up | Verb | To become an adult |
 
 # H
 
@@ -68,14 +102,36 @@ knitr::opts_chunk$set(echo = FALSE)
 | ----- | ------------------- | ------------|------------- |
 |1|  Harmless     |    Adjective   |   Safe         |
 |1| To hatch |  Verb     |  To get out of a egg |
+|5| The headgear | Noun | All things who can wear your head |
+|5| Helmet | Noun | A hard hat |
+|4| The heterotopy | Noun | A abnormal position from the normal placement |
 |1| To highlight  | Verb  | To put in evidence                    |
+|4| Hindlimb(s) | Noun | Anterior member|
+|3| Hindwing | Noun | The two posterior wings of insecta|
+|4| Holometabolous (metamorphosis) | Adjective | complete (metamophosis of insect ) : larvae, pupae , adult |
+|4| Homeotic | Adjective | Qualify a gene who has a rol in the development of the anatomy, organs or body|
+![](image/homeotic genes drosophila.jpg)
 
+| Article | Words from the text | Functions   |  Synonym/explanation in English |
+| ----- | ------------------- | ------------|------------- |
 
 # I 
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | ---------- | --------- | ------------|------------- |
+|4| To impart | Verb| to communicate, to confer|
+|4| The Increment | Noun| A gain|
+|4| Indel(s) | Noun | It's a biological term to qualify the deletion or the insection of base in DNA (genome) |
 |3| Inherent | Adjective | Fundamental |
+|4| The insight(s)| Noun | the comprehension, the understanding |
+|4| The insulators | Noun | A substance who blocks the passage of electricity , heat or sound|
+|4| The introgression | Noun| it's the transfer of gene between two species by theirs hybrid |
+
+How that was study ?
+![](image/introgression.jpg)
+
+| Article | Words from the text | Functions   |  Synonym/explanation in English |
+| ---------- | --------- | ------------|------------- |
 |1| A intruder |  Noun   |  Someone who comes in unwelcome places    |
 
 # J 
@@ -87,11 +143,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | --------- | ---------- | ------------|------------- |
+|5| The Kernel | Noun | A grain |
 
 # L 
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | --------- | ---------- | ------------|------------- |
+|3| The lineages | Noun | It's the descendants from a commun  ancestor |
 |1| Loosely    |  Adverb  | Free     |
 
 # M
@@ -103,25 +161,36 @@ knitr::opts_chunk$set(echo = FALSE)
 |3| Markedly | Adverb | Obvious |
 |1| The  marsh       | Noun | A swamp |
 |1| The marsh gentian | Noun   | A plant  |
+|4|Melanin | Noun| Pigment|
+|5| A mesh | Noun | A network |
 |1| Mimicry | Noun | Definition from the article: "an evolved resemblance in appearance or behavior between one organism and another, usually of a different species" |
 
 # N
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | ------- | ------------ | ------------|------------- |
+|3|New-frangled (derogatory)| Adjective | Different of what we use usually|
+|4| Nonmodel system | Adjective and noun | A system who is not extensively studied |
 |3| The novelty | Noun | Something unusual, something new |
 
 # O 
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | -------- | ----------- | ------------|------------- |
+|4| Onsite | Adjective - Adverb | Taking place|
 
 # P
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | --------- | ---------- | ------------|------------- |
 |3| Pairwise | Adjective | Simular |
+|4| Pathway |Noun | A serie of chemicals reactions catalysed by enzymes who are linked |
+| 4 |Pheomelanin| Noun| Pigment|
+|4| The pleotropy | Noun | It's a phenomenon where one gene influences two other genes or more than two|
+|4| Presumably| Adverb | Probably | 
 |3| To prompt |Verb | To encourage something, to cause something |
+|4| Pupae| Noun| An inactive and immature state of an insect for example the chrysalis |
+|4| Pupal| Adjective | that make reference to pupae |
 
 # Q 
 
@@ -133,33 +202,58 @@ knitr::opts_chunk$set(echo = FALSE)
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | ------- | ------------ | ------------|------------- |
 |1| To raise     |  Verb  |   To elevate           |
+|4| To refine | Verb | To clarify |
+|4| Regardless| Adverb | Nevertheless|
 |2| The riddle | Noun | A enigma, a problem to solve like a mystery |
 |1|    A robin    |    Noun |    It's a bird                  |
+|5| Rooftop | Noun | The surface of the roof |
 
 # S 
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | -------- | ----------- | ------------|------------- |
 |1| A scales  |   Noun   |  A external piece of keratin like for turtles , birds, snakes and the tail of rats |
+|4| Sanger sequencing (PCR) | Noun | It's a method to determine a sequence of DNA |
 |2| To sense | Verb | It's the abilities of evolve in fonction of stimulus from the environment to can react by after |
+|4| Setal (setae) | Noun | a bristel, a thin hair |
+![](image/setal_forms.jpg)
+
+
+| Article | Words from the text | Functions   |  Synonym/explanation in English |
+| -------- | ----------- | ------------|------------- |
+|5| To shed light | Verb | To explain  |
 |1|     To sink    |  Verb  |   To drop, To go down             |
+|3| Somewhat | Adverb | A little |
 |2| The surrounding | Noun  | Everything who encircle something , the environment |
+|3| Switcheroo (North USA , informal) | Noun | A change |
+
 
 # T 
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | -------- | ----------- | ------------|------------- |
 |3| Therefore | Adverb | As a result, so |
+|4| A grayer tinge | Noun | A color grey |
+|4| Toolkit| Noun | A tools' set |
+|5| Treehopper | Noun | It's a bug living on trees and who has a thorn-shaped  |
 |1| To trick      |   Verb  |   To make an illusion , to cheat     |
 |3| Tricky | Adjective | Difficult |
 |1|     To trigger  |     Verb  |   To cause        |
+|4| Trimming | Noun | something cut in small pieces |
 |2| A twig  |  Noun | A piece of wood from a tree |
 
 # U
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | -------- | ----------- | ------------|------------- |
+|4| To uncover| Verb | To found|
 |1|     Unsavory   |  Adjective  |    Disagreeable to eat              |
+|4| Upstream | Adjective | In the other sens|
+![](image/upstream_downstream.png)
+
+| Article | Words from the text | Functions   |  Synonym/explanation in English |
+| -------- | ----------- | ------------|------------- |
+| The uptick (North American) | Noun| A little bit increase |
 
 # V
 
@@ -185,115 +279,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-# article 3
-| Words from the text | Functions   |  Synonym/explanation in English |
-| ------------------- | ------------|------------- |
-
-
-| Somewhat | Adverb | A little |
-| The centroid | Noun | A geometric center |
-| The lineages | Noun | It's the descendants from a commun  ancestor |
-| Brand new | Adjective | Completely new |
-| Switcheroo (North USA , informal) | Noun | A change |
-| Advergence | Noun | In Biology the advergence is the evolutionary tendency where a species develops characteristics pairwise from another species. This mimic event looks like the co-evolution based of the Müllerian mimecry or the fact that a species imitate another model of species.
-| Correspondingly | Adverb | In consequence |
-| To grow up | Verb | To become an adult |
-| New-frangled (derogatory)| Adjective | Different of what we use usually |
-| Apt | Adjective | Given |
-
-| Anatomy | Word's function | Definition |
-|--------------------|--------------------|---------------------|
-| Forewing | Noun | The two first wings of insecta |
-| Hindwing | Noun | The two posterior wings of insecta|
-![](images/morphology of butterfly.jpg)
-
-# article 4
-| Words from the text | Functions   |  Synonym/explanation in English |
-| ------------------- | ------------|------------- |
-| Homeotic | Adjective | Qualify a gene who has a rol in the development of the anatomy, organs or body|
-![](image/homeotic genes drosophila.jpg)
-
-| Words from the text | Functions   |  Synonym/explanation in English |
-| ------------------- | ------------|------------- |
-| Nonmodel system | Adjective and noun | A system who is not extensively studied |
-| Setal (setae) | Noun | a bristel, a thin hair |
-![](image/setal_forms.jpg)
-
-| Words from the text | Functions   |  Synonym/explanation in English |
-| ------------------- | ------------|------------- |
-| To establish | Verb | To set up |
-| A cis-regulatory locus| Noun | A non-coding area of DNA |
-| Fate-determining | | |
-| The pleotropy | Noun | It's a phenomenon where one gene influences two other genes or more than two|
-| To Decipher | Verb | To decrypt , decode|
-| Distasteful | Adjective | unpleasant |
-| Aposematic | Adjective | In zoology it's the phenomenon where a animal warm its predator that it's dangerous |
-| The insight(s)| Noun | the comprehension, the understanding |
-| To co-opt | Verb | To use in another role than the initial one|
-| The introgression | Noun| it's the transfer of gene between two species by theirs hybrid |
-
-How that was study ?
-![](image/introgression.jpg)
-
-| Words from the text | Functions   |  Synonym/explanation in English |
-| ------------------- | ------------|------------- |
-| To impart | Verb| to communicate, to confer|
-| To uncover| Verb | To found|
-| Melanin, Eumelanin, Pheomelanin| Noun| Pigments|
-| Pathway |Noun | A serie of chemicals reactions catalysed by enzymes who are linked |
-| Presumably| Adverb | Probably | 
-| To alter | Verb | To change the natuur of something , its character or its composition|
-| Upstream | Adjective | In the other sens|
-
-![](image/upstream_downstream.png)
-
-| Words from the text | Functions   |  Synonym/explanation in English |
-| ------------------- | ------------|------------- |
-| To refine | Verb | To clarify |
-| Fruitful | Adjective | Fertile, productive |
-| Sanger sequencing (PCR) | Noun | It's a method to determine a sequence of DNA |
-| Holometabolous (metamorphosis) | Adjective | complete (metamophosis of insect ) : larvae, pupae , adult | 
-| Pupae| Noun| An inactive and immature state of an insect for example the chrysalis |
-| Pupal| Adjective | that make reference to pupae |
-| Adulthood | Noun | The mature state of an isect |
-| Callow | Adjective | Immature , without experience|
-| The Increment | Noun| A gain| 
-| Geyish| Adjective | A bit grey |
-| A grayer tinge | Noun | A color grey |
-| Onsite | Adjective - Adverb | Taking place|
-| Regardless| Adverb | Nevertheless|
-| The uptick (North American) | Noun| A little bit increase |
-| Male sex comb | Noun | something that use Drosophila to grasp on the female |
-| Forelimb(s) | Noun | Posterior member |
-| Hindlimb(s) | Noun | Anterior member|
-| corbicula pollen basket | Noun | a cavity where the pollen is stocked ,surrounded by setae |
-![](image/honeybee_hindleg.jpg)
-
-| Words from the text | Functions   |  Synonym/explanation in English |
-| ------------------- | ------------|------------- |
-| Ferruginous | Adjective| holding within iron oxyde |
-| The heterotopy | Noun | A abnormal position from the normal placement |
-| The insulators | Noun | A substance who blocks the passage of electricity , heat or sound|
-| Demarcating | Adjective | Separed|
-| Toolkit| Noun | A tools' set |
-| Indel(s) | Noun | It's a biological term to qualify the deletion or the insection of base in DNA (genome) |
-| Desiquilibrium | Noun | Destability|
-| The avoidance | Noun | It's the fact to avoid something|
-| Trimming | Noun | something cut in small pieces |
 
 # article 5
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
-| Treehopper | Noun | It's a bug living on trees and who has a thorn-shaped  |
-| Helmet | Noun | A hard hat |
-| To shed light | Verb | To explain  |
-| The headgear | Noun | All things who can wear your head |
-| The Kernel | Noun | A grain |
-| Cozy | Adjective | Something comfortable |
-| A mesh | Noun | A network |
-| Rooftop | Noun | The surface of the roof |
-| To feast | Verb | To make a good meal , To feed  |
-| To blow | Verb | To impress |
+
+
+
 | Indeed | Adverb | In fact ,to be sure  |
 | The thorn | Noun | a spine of tree |
 | To perch atop | Verb | To be on the peak of something|
