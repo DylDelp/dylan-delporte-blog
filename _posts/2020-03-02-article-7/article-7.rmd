@@ -5,8 +5,6 @@ author:
 date: "03-02-2020"
 categories:
         - Mimicry of species
-        - Müllerian mimicry
-        - Mimicry of environment
 preview: 
 output:
   distill::distill_article:
@@ -39,5 +37,26 @@ knitr::opts_chunk$set(echo = FALSE)
 | | | | 
 
 
+## PDF
+PDF of the article without pictures and with the vocabulary put in yellow:
+
+# Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |    | 
+|Bibliography of the researchers | |
+| Published in?                |        |
+| General topic?               |  |
+| Conclusions/discovery?       | |
+| Remaining questions?         | There are no remaining questions at the end of the article |
+
+# Bibliography
+
+## pictures
+
+All pictures are from the article or google image
+
+## website
 
 
