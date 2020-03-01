@@ -1,7 +1,7 @@
 [
   {
-    "path": "posts/2020-02-16-article-6/",
-    "title": "Article 6 : The giant squid genome holds surprises ",
+    "path": "posts/",
+    "title": "Article 7 :  ",
     "description": {},
     "author": [
       {
@@ -9,14 +9,12 @@
         "url": {}
       }
     ],
-    "date": "2020-02-17",
+    "date": "2020-03-02",
     "categories": [
-      "Mimicry of species",
-      "Müllerian mimicry",
-      "Mimicry of environment"
+      "Mimicry of species"
     ],
     "preview": {},
-    "last_modified": "2020-02-23T19:04:33+01:00"
+    "last_modified": "2020-03-01T11:50:42+01:00"
   },
   {
     "path": "posts/global vocabulary/",
@@ -34,6 +32,25 @@
     ],
     "preview": {},
     "last_modified": "2020-02-23T19:09:26+01:00"
+  },
+  {
+    "path": "posts/2020-02-16-article-6/",
+    "title": "Article 6 : The giant squid genome holds surprises ",
+    "description": {},
+    "author": [
+      {
+        "name": "Dylan Delporte",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-17",
+    "categories": [
+      "Mimicry of species",
+      "Müllerian mimicry",
+      "Mimicry of environment"
+    ],
+    "preview": "posts/2020-02-16-article-6/image/giant squid.jpg",
+    "last_modified": "2020-03-01T11:41:19+01:00"
   },
   {
     "path": "posts/2019-12-16-article-5/",
