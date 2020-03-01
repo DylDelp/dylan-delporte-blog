@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/",
-    "title": "Article 7 :  ",
-    "description": {},
-    "author": [
-      {
-        "name": "Dylan Delporte",
-        "url": {}
-      }
-    ],
-    "date": "2020-03-02",
-    "categories": [
-      "Mimicry of species"
-    ],
-    "preview": {},
-    "last_modified": "2020-03-01T11:50:42+01:00"
-  },
-  {
     "path": "posts/2020-03-02-article-7/",
     "title": "Article 7 : Iridescence as Camouflage ",
     "description": {},
@@ -31,24 +14,7 @@
       "Mimicry of species"
     ],
     "preview": {},
-    "last_modified": "2020-03-02T00:22:17+01:00"
-  },
-  {
-    "path": "posts/global vocabulary/",
-    "title": "Vocabulary from articles",
-    "description": {},
-    "author": [
-      {
-        "name": "Dylan Delporte",
-        "url": {}
-      }
-    ],
-    "date": "2020-02-17",
-    "categories": [
-      "vocabulary"
-    ],
-    "preview": {},
-    "last_modified": "2020-02-23T19:09:26+01:00"
+    "last_modified": "2020-03-02T00:46:52+01:00"
   },
   {
     "path": "posts/2020-02-16-article-6/",
@@ -67,7 +33,24 @@
       "Mimicry of environment"
     ],
     "preview": "posts/2020-02-16-article-6/image/giant squid.jpg",
-    "last_modified": "2020-03-01T11:41:19+01:00"
+    "last_modified": "2020-03-01T11:41:34+01:00"
+  },
+  {
+    "path": "posts/global vocabulary/",
+    "title": "Vocabulary from articles",
+    "description": {},
+    "author": [
+      {
+        "name": "Dylan Delporte",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-17",
+    "categories": [
+      "vocabulary"
+    ],
+    "preview": {},
+    "last_modified": "2020-02-23T19:09:28+01:00"
   },
   {
     "path": "posts/2019-12-16-article-5/",
@@ -84,7 +67,7 @@
       "Mimicry of species"
     ],
     "preview": "posts/2019-12-16-article-5/image/cicadelle.jpg",
-    "last_modified": "2019-12-14T11:40:39+01:00"
+    "last_modified": "2019-12-14T11:40:40+01:00"
   },
   {
     "path": "posts/2019-12-02-article-4/",
@@ -102,7 +85,7 @@
       "Müllerian mimicry"
     ],
     "preview": "posts/2019-12-02-article-4/image/Bombus melanopygus.png",
-    "last_modified": "2019-12-02T11:09:26+01:00",
+    "last_modified": "2019-12-02T11:09:28+01:00",
     "preview_width": 800,
     "preview_height": 800
   },
@@ -122,7 +105,7 @@
       "Müllerian mimicry"
     ],
     "preview": "posts/2019-11-18 -article-3/images/morphology of butterfly.jpg",
-    "last_modified": "2020-02-15T22:09:07+01:00"
+    "last_modified": "2020-02-15T22:09:09+01:00"
   },
   {
     "path": "posts/2019-11-04 -article-2/",
@@ -140,7 +123,7 @@
       "Mimicry of environment"
     ],
     "preview": "posts/2019-11-04 -article-2/image/Peppered-moth-larva.jpg",
-    "last_modified": "2019-11-30T17:49:34+01:00"
+    "last_modified": "2019-11-30T17:49:48+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -159,7 +142,7 @@
       "Batesian mimicry"
     ],
     "preview": "posts/2019-09-18-article-1/image/Mimic Octopus.jpg",
-    "last_modified": "2020-02-15T22:06:21+01:00"
+    "last_modified": "2020-02-15T22:06:23+01:00"
   },
   {
     "path": "posts/My english activity log/",
@@ -176,6 +159,6 @@
       "My english activity log"
     ],
     "preview": "posts/My english activity log/image/Crypt_TV_logo_(2018).jpg",
-    "last_modified": "2019-11-18T19:49:37+01:00"
+    "last_modified": "2020-03-02T00:46:28+01:00"
   }
 ]
