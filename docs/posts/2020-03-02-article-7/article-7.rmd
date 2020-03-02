@@ -1,0 +1,81 @@
+---
+title: "Article 7 : Iridescence as Camouflage "
+author: 
+  - name: "Dylan Delporte"
+date: "03-02-2020"
+categories:
+        - Mimicry of species
+preview: image/sternacera aequisignata.jpg 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Vocabulary 
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+
+| Taxonomically | Adverb | |
+| Hues | Noun | | 
+| Multilayer | Adjective | |
+| Glossy | Adjective| | 
+| Vivid | Adjective| |
+| Conspicious | Adjective| | 
+| To conceal | Verb | |
+| Underlying | Adjective | | 
+| | | |
+| | | | 
+| | | |
+| | | | 
+| | | |
+| | | | 
+| | | |
+| | | | 
+
+
+## PDF
+PDF of the article without pictures and with the vocabulary in red cases:
+
+<>
+
+# species mentionned in the article and underlined in red 
+
+1) jewel beetle , _Sternocera aequisignata_
+
+![](image/sternocera aequisignata.jpg)
+
+2) 
+
+# Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| __Affiliations__        |   __Researchers__  |
+| 1. School of Biological Sciences, University of Bristol, Bristol BS8 1TQ, UK | • Karin Kjernsmo
+| |• Innes C. Cuthill |
+| |• Heather M. Whitney |
+| |• Henry Knowles| 
+| 2. School of Psychological Science, University of Bristol, Bristol BS8 1TU, UK | • Laszlo Talas |
+| | • Nicholas E. Scott-Samuel |
+| | • Joanna R. Hall |
+| __Published in?__                |   The 23rd of January 2020     |
+| __General topic?__               | The iridescence used as camouflage |
+| __Conclusions/discovery?__       | |
+| __Remaining questions?__         | There are no remaining questions at the end of the article |
+
+# Bibliography
+
+## pictures
+
+All pictures are from the article or google image
+
+## website
+
+<https://www.cell.com/current-biology/fulltext/S0960-9822(19)31608-2#>
+consulted the 01st of March 2020 at 9 PM 13
+

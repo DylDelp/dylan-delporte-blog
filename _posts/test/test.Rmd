@@ -1,0 +1,149 @@
+---
+title: "Article 1: 8 Animals That Exhibit Mimicry"  
+author: 
+  - name: "Dylan Delporte"
+date: "10-17-2019"
+categories:
+        - Mimicry of species
+        - Müllerian mimicry
+        - Batesian mimicry
+preview: image/Mimic Octopus.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![](image/Mimic Octopus.jpg )
+
+# Vocabulary 
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+| Mimicry | Noun | Definition from the article: "an evolved resemblance in appearance or behavior between one organism and another, usually of a different species" |
+| To exhibit   | Verb | To present something         |
+| To highlight  | Verb  | To put in evidence                    |
+|  The marsh gentian | Noun   | A plant  |
+| The  marsh       | Noun | A swamp |
+| To trick      |   Verb  |   To make an illusion , to cheat     |
+| To hatch |  Verb     |  To get out of a egg |
+| The intruder |  Noun   |  Someone who comes in unwelcome places    |
+| Loosely    |  Adverb  | Free        |
+|   A scales      |   Noun   |  A external piece of keratin like for turtles , birds, snakes and the tail of rats |
+|     To deter       |  Verb      |      To give fear, to discourage   |
+|     A mantis shrimp       |   Noun    |   A crustacean who punch its prey to capture it  |
+| To flatten   |  Verb |  To become plat          |
+| To raise     |  Verb  |   To elevate           |
+|   To bent     | Verb    |       To change the shape         |
+|     To sink    |  Verb  |   To drop, To go down             |
+|       Harmless     |    Adjective   |   Safe         |
+|     Unsavory   |  Adjective  |    Disagreeable to eat              |
+| The Wings-click |  Noun  |   The fact of produse sound with wings |
+|    A maggot  |  Noun |    For example a larvae of fly      |
+|    A robin , a chat     |    Noun |    There are birds                  |
+| Dihedral forming wings | Noun and adjectives | ![](image/Dihedral wings.gif ) |
+|  A wobble      |  Noun    |   A unsteady motion  |
+|     To trigger  |     Verb  |   To cause        |
+
+## PDF
+PDF of the article without pictures and with the vocabulary put in color:
+
+<https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2019-09-18-article-1/8%20Animals%20That%20Exhibit%20Mimicry.pdf>
+
+
+# Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Victor KRIPROP , profession unknow                       |
+| Published in?                | 17 October 2019 at 5 PM                                                     |
+| General topic?               | The general topic is the 8 animals who can exhibit the mimecry |
+| Procedure/what was examined? |   How they use their abilities  |
+| Conclusions/discovery?       |  The author do a list about mimic species |
+| Remaining questions?         | There are no remaining questions at the end of the article |
+
+
+
+# Pictures of mimic species mentionned from the article 
+
+## The Alcon blue butterfly 
+( _Phengaris rebeli_ )
+
+![](image/the alcon blue butterfly.jpg )
+
+His larvae copies the smell of ants to be protected
+
+
+## The mimic octopus 
+( _Thaumoctopus mimicus_)
+
+![](image/mimic-octopus.jpg )
+
+This animal imitate up to 50 different animals to fear his predators
+
+
+## The viceroy butterfly 
+( _Limenitis archippus_ )
+
+![](image/viceroy butterfly.jpg )
+
+He uses batesian mimecry to pretend that he is toxic like the monarch butterfly, it is not true.
+
+
+## The milk snake 
+( _Lampropeltis triangulum_ )
+
+![](image/milk snake.jpg )
+
+He looks like a venimous snake but he is not venimous
+
+
+## The lyrebirds 
+( For example _Menura novaehollandiae_ )
+
+![](image/The lyrebirds.jpg )
+
+He copies another sound that he hears
+
+
+## The Katylid 
+( For example _Pseudophyllus titan_ )
+
+![](image/Pseudophyllus titan.jpg )
+
+He imitates the sounds of cicadas 
+
+
+## The snail eyestalk flatworms , a parasite of gasteropoda
+( _Leucochloridium paradoxum_ )
+
+![](image/Leucochloridium paradoxum.jpg )
+
+He takes control of snail to be eaten 
+
+
+## The zone-tailed hawk 
+( _Buteo albonotatus_ )
+
+![](image/Zone-tailed hawk.jpg )
+
+He looks like  of a vulture , specialy the turkey vulture by his behavior
+
+# Bibliography
+
+## citation of the article analysed 
+Kiprop, Victor. "8 Animals That Exhibit Mimicry." WorldAtlas, Oct. 17, 2019, worldatlas.com/articles/8-animals-that-exhibit-mimicry.html.
+
+## pictures
+
+All pictures are from the article or google image
+
+## website
+<https://www.worldatlas.com/articles/8-animals-that-exhibit-mimicry.html>
+consulting the 18 october 2019 at 2 PM 
+
+
