@@ -1,6 +1,6 @@
 ---
 title: "The mimicry"
-site: distill::distill_article
+site: distill::distill_website
 listing: posts
 ---
 
