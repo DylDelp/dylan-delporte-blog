@@ -24,11 +24,13 @@ knitr::opts_chunk$set(echo = FALSE)
 |3| Agruably | Adverb | Problably, perhaps, maybe,...    |
 |6| Alas | Abbreviation | Alaska|
 |4| To alter | Verb | To change the natuur of something , its character or its composition|
+|7| A aperture| Noun | A hole where light pass through | 
 |4| Aposematic | Adjective | In zoology it's the phenomenon where a animal warm its predator that it's dangerous |
 |3| Apt | Adjective | Given |
 |6| To arise from (arose, arose, arisen) | Verb  |To start to exist |
 |6|The array(s) | Noun | The arrangement |
 |6| Ashore | Adverb | coming up to the sea |
+|7| Avian| Adjective| This word used to talk about something relatif to birds | 
 |4| The avoidance | Noun | It's the fact to avoid something|
 |6|Awe-inspiring|Adjective| To cause fear being magnificient|
 
@@ -62,11 +64,16 @@ knitr::opts_chunk$set(echo = FALSE)
 |1|    A chat   |    Noun |    It's a bird                  |
 |6| To cluster | Verb | To come in the same time | 
 |4| Male sex comb | Noun | something that use Drosophila to grasp on the female |
+|7| To conceal | Verb | To hide something|
+|7| concealment | Adverb | Hinding something|
+|7| Conspicious | Adjective| To be clearly seen | 
 |4| To co-opt | Verb | To use in another role than the initial one|
 |3| Correspondingly | Adverb | In consequence |
 |3| Counterintuitive | Adjective | Something opposed to a common-sense or intuitions |
 |6| The counterpart | Noun | Something with the same function than another thing |
+|7| A covariate| Noun | A variable whose is independent but influence the result with a indirect way|
 |5| Cozy | Adjective | Something comfortable |
+|7| A Cues| Noun| A signal to start |
 
 # D
 
@@ -99,10 +106,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------- | ------ | ------------|------------- |
+|7|To Fare | verb | To pass through |
 |4| Fate-determining | Noun | It's the fact of understand how a cell in particular becomes a final part of a organism|
 |5| To feast | Verb | To make a good meal , To feed  |
 |6| Feathery|Adjective | Like feathe , plumed|
 |4| Ferruginous | Adjective| holding within iron oxyde |
+|7| The field | Noun| An area |
 |1| To flatten   |  Verb |  To become plat          |
 |6| To flesh out | Verb | To provide more information |
 |3| Forewing | Noun | The two first wings of insecta |
@@ -114,6 +123,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | --------- | ---------- | ------------|------------- |
 |4| Geyish| Adjective | A bit grey |
+|7| Glossy | Adjective| Shiny| 
 |6|To glow| Verb| To shine|
 |3| To grow up | Verb | To become an adult |
 
@@ -122,11 +132,13 @@ knitr::opts_chunk$set(echo = FALSE)
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | ----- | ------------------- | ------------|------------- |
 |6| A handful | Noun | A small amount that we can hand |
+|7| Handling  | Noun | When you take something in your hands|
 |6| To harbor |Verb | To provide a safe place|
 |1|  Harmless     |    Adjective   |   Safe         |
 |1| To hatch |  Verb     |  To get out of a egg |
 |5| The headgear | Noun | All things who can wear your head |
 |5| Helmet | Noun | A hard hat |
+|7| Hereafter| Adverb | "Following time" after a event |
 |4| The heterotopy | Noun | A abnormal position from the normal placement |
 |1| To highlight  | Verb  | To put in evidence                    |
 |4| Hindlimb(s) | Noun | Anterior member|
@@ -137,7 +149,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | ----- | ------------------- | ------------|------------- |
-
+|7| Hues | Noun | It's the color or the shade of something|
 # I 
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
@@ -197,6 +209,7 @@ How that was study ?
 |6| To mesmerize | Verb | To hypnotize | 
 |5| Milkweed | Noun | The monarch butterfly |
 |1| Mimicry | Noun | Definition from the article: "an evolved resemblance in appearance or behavior between one organism and another, usually of a different species" |
+|7| Multilayer | Adjective | To be constiting by many layers  |
 
 # N
 
@@ -212,6 +225,7 @@ How that was study ?
 | -------- | ----------- | ------------|------------- |
 |4| Onsite | Adjective - Adverb | Taking place|
 |6| To overlap| Verb | To cover partly|
+|7| To overnight| Verb| To remain during the night |
 |5| Overwhelmingly | Adverb | With the majority |
 
 # P
@@ -222,9 +236,11 @@ How that was study ?
 |3| Pairwise | Adjective | Simular |
 |4| Pathway |Noun | A serie of chemicals reactions catalysed by enzymes who are linked |
 |6| pending | Adjective | Uncertain|
+|7| A percentile | Noun| A pourcentage|
 |5| To perch atop | Verb | To be on the peak of something|
 | 4 |Pheomelanin| Noun| Pigment|
 |5| Picky (informal) | Adjective | Fastidious |
+|7|To pin To | Verb | To attach with pin |
 |4| The pleotropy | Noun | It's a phenomenon where one gene influences two other genes or more than two|
 |4| Presumably| Adverb | Probably | 
 |6| To probe| Verb | To ask quetions and find information to reach the answer |
@@ -232,6 +248,7 @@ How that was study ?
 |6| To propel| Verb| To move forward or onward|
 |4| Pupae| Noun| An inactive and immature state of an insect for example the chrysalis |
 |4| Pupal| Adjective | that make reference to pupae |
+|7| A pushpin | Noun| A thumbtack  |
 
 # Q 
 
@@ -243,6 +260,7 @@ How that was study ?
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | ------- | ------------ | ------------|------------- |
 |1| To raise     |  Verb  |   To elevate           |
+|7| Rangefinder| Noun | It's a object used to estimate distance with a laser | 
 |6| The realm | Noun  | A kingdom|
 |4| To refine | Verb | To clarify |
 |4| Regardless| Adverb | Nevertheless|
@@ -272,6 +290,7 @@ How that was study ?
 |6| To sketch | Verb | To draw, describe something |
 |6| A salami slicer | Noun | A piece of meal cut in small piece |
 |6| Slimy | Adjective | Like slime|
+|7| A slope | Noun| A surface qualifies of rising or falling|
 |5| Smooth-surfaced | Adjective | Flat-surfaced |
 |3| Somewhat | Adverb | A little |
 |6| Sporting  | Adjective | To be generous  | 
@@ -281,13 +300,14 @@ How that was study ?
 |2| The surrounding | Noun  | Everything who encircle something , the environment |
 |3| Switcheroo (North USA , informal) | Noun | A change |
 
-
 # T 
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | -------- | ----------- | ------------|------------- |
 |5| To tackle | Verb | To take something forward |
+|7| Taxonomically | Adverb | It's relatif to the taxonomie|
 |6| Telltale | Adjetive | Indicating|
+|7| Ternary | Adjective| with three parts| 
 |3| Therefore | Adverb | As a result, so |
 |5| The thorn | Noun | a spine of tree |
 |4| A grayer tinge | Noun | A color grey |
@@ -307,6 +327,7 @@ How that was study ?
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | -------- | ----------- | ------------|------------- |
 |4| To uncover| Verb | To found|
+|7| To underlie |Verb | To be under something | 
 |1|     Unsavory   |  Adjective  |    Disagreeable to eat              |
 |4| Upstream | Adjective | In the other sens|
 ![](image/upstream_downstream.png)
@@ -319,6 +340,8 @@ How that was study ?
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | --------- | ---------- | ------------|------------- |
+|7| The Nail varnish| Noun| It's a colored substance put on nail | 
+|7| Vivid | Adjective| Colorful|
 
 # W
 
@@ -328,6 +351,7 @@ How that was study ?
 |1| The Wings-click |  Noun  |   The fact of produse sound with wings |
 |6| To witness the event| Verb | To see the even | 
 |1|  A wobble      |  Noun    |   A unsteady motion  |
+|7| To wrap| Verb| To cover | 
 
 # Y
 
@@ -338,5 +362,4 @@ How that was study ?
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | -------- | ----------- | ------------|------------- |
-
 

@@ -19,7 +19,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
-
 | Taxonomically | Adverb | It's relatif to the taxonomie|
 | Hues | Noun | It's the color or the shade of something| 
 | concealment | Adverb | Hinding something|
@@ -50,7 +49,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## PDF
 PDF of the article without pictures and with the vocabulary in red cases:
 
-<>
+<https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2020-03-02-article-7/Iridescence%20as%20camouflage%209%20pages.pdf>
 
 # species mentionned in the article and underlined in red 
 
@@ -58,27 +57,27 @@ PDF of the article without pictures and with the vocabulary in red cases:
 
 ![](image/sternocera aequisignata.jpg)
 
-2) Common Ivy or English Ivy,  __Hedera helix__ 
+2) Common Ivy or English Ivy,  _Hedera helix_ 
 
 
 
-3) Mealworm ¸ __Tenebrio molitor__
+3) Mealworm ¸ _Tenebrio molitor_
 
 
 
-4) Bramble , __Rubus fructicosus__
+4) Bramble , _Rubus fructicosus_
 
 
 
-5) Beech , __Fagus sylvatica__
+5) Beech , _Fagus sylvatica_
 
 
 
-6) Holly , __Ilex aquilifolium__
+6) Holly , _Ilex aquilifolium_
 
 
 
-7) Hazel , __Corylus avellana__
+7) Hazel , _Corylus avellana_
 
 
 
