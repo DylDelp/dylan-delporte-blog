@@ -17,3 +17,4 @@ collections:
 output: 
     distill::distill_article:
         css: color.css
+

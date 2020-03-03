@@ -2,7 +2,7 @@
 title: "Article 4: A homeotic shift late in development drives mimitic color variation in a bumble bee"
 author:
   - name: "Dylan Delporte"
-date: "11/27/2019"
+date: "11-27-2019"
 categories:
         - Mimicry of species
         - Müllerian mimicry
