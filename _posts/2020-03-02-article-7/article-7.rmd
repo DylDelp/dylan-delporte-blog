@@ -20,23 +20,32 @@ knitr::opts_chunk$set(echo = FALSE)
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
 
-| Taxonomically | Adverb | |
-| Hues | Noun | | 
-| Multilayer | Adjective | |
-| Glossy | Adjective| | 
-| Vivid | Adjective| |
-| Conspicious | Adjective| | 
-| To conceal | Verb | |
-| Underlying | Adjective | | 
-| | | |
-| | | | 
-| | | |
-| | | | 
-| | | |
-| | | | 
-| | | |
-| | | | 
-
+| Taxonomically | Adverb | It's relatif to the taxonomie|
+| Hues | Noun | It's the color or the shade of something| 
+| concealment | Adverb | Hinding something|
+| Multilayer | Adjective | To be constiting by many layers  |
+|To Fare | verb | To pass through |
+| Glossy | Adjective| Shiny| 
+| Vivid | Adjective| Colorful|
+| Conspicious | Adjective| To be clearly seen | 
+| To conceal | Verb | To hide something|
+| To underlie |Verb | To be under something | 
+| The field | Noun| An area |
+| To wrap| Verb| To cover | 
+| Hereafter| Adverb | "Following time" after a event |
+| Avian| Adjective| This word used to talk about something relatif to birds | 
+| A covariate| Noun | A variable whose is independent but influence the result with a indirect way|
+| A slope | Noun| A surface qualifies of rising or falling| 
+| A Cues| Noun| A signal to start |
+| The Nail varnish| Noun| It's a colored substance put on nail | 
+| Ternary | Adjective| with three parts| 
+| A pushpin | Noun| A thumbtack  |
+| To overnight| Verb| To remain during the night |
+| Handling  | Noun | When you take something in your hands| 
+| Rangefinder| Noun | It's a object used to estimate distance with a laser |
+|To pin To | Verb | To attach with pin |
+| A aperture| Noun | A hole where light pass through | 
+| A percentile | Noun| A pourcentage|
 
 ## PDF
 PDF of the article without pictures and with the vocabulary in red cases:
@@ -49,7 +58,29 @@ PDF of the article without pictures and with the vocabulary in red cases:
 
 ![](image/sternocera aequisignata.jpg)
 
-2) 
+2) Common Ivy or English Ivy,  __Hedera helix__ 
+
+
+
+3) Mealworm ¸ __Tenebrio molitor__
+
+
+
+4) Bramble , __Rubus fructicosus__
+
+
+
+5) Beech , __Fagus sylvatica__
+
+
+
+6) Holly , __Ilex aquilifolium__
+
+
+
+7) Hazel , __Corylus avellana__
+
+
 
 # Analysis table 
 
