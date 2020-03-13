@@ -1,0 +1,129 @@
+---
+title: "Global summary: What is the mimicry ? "
+author: 
+  - name: "Dylan Delporte"
+date: "03-02-2020"
+categories:
+        - global summary
+        - Mimicry of species
+        - Mimicry of environment
+        - Müllerian mimicry
+        - Batesian mimicry
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup}
+SciViews::R
+options(data.io_lang = "fr") # Labels en français
+```
+
+This article would be use to summerise informations about the mimicry basis on the articles and another scientific website.
+
+# Definitions
+
+## The mimicry
+
+The mimicry can be defined as an ressemblance between ogarnisms coming from different species. This ressemblance must be physical with colours, shape, etc or it must be linked by the seem behavior.
+
+There are different situation where mimicry can be defined giving different analysis.
+
+### The Batesian mimicry
+
+The Batesian mimicry qualifies the fact that one species without defenses evolved to look like a harmful species having the seem predators than the species harmless.
+
+#### Time O : Initial situation with two different species 
+
+At time O we found a harmless species and a harmful species and a predator.
+The harmful species is toxic or unsavory,etc and it owns a warming signals to show it.
+The predator try to eat the two different species.
+
+Simulation : What will happen ?
+
+```{r}
+# libraries:
+library(ggplot2)
+library(gganimate)
+ 
+# Make 2 basic states and concatenate them:
+a <- data.frame(group = c("harmless species","harmful species","predator"), values = c(10,10,10), frame = rep('a',3))
+b <- data.frame(group = c("harmless species","harmful species","predator"), values = c(8,9,9), frame = rep('b',3))
+data <- rbind(a,b)  
+ 
+# Basic barplot:
+ggplot(a, aes(x = group, y = values, fill = group)) + 
+  geom_bar(stat = 'identity')
+ 
+# Make a ggplot, but add frame=year: one image per year
+ggplot(data, aes(x = group, y = values, fill = group)) + 
+  geom_bar(stat = 'identity') +
+  theme_bw() +
+  # gganimate specific bits:
+  transition_states(
+    frame,
+    transition_length = 2,
+    state_length = 1
+  ) +
+  ease_aes('sine-in-out')
+
+# Save at gif:
+anim_save("batesian-time-0.gif")
+```
+
+After this simulation , we can see that the species harmless is disadvantaged.
+
+
+#### Time 1: The harmless species imitates the warming signals of the harmful species 
+
+At time 1 we found a harmless species and a harmful species and a predator.
+The harmless species and the harmful species own the seem warming signals , furthermore the predator have leanr that this signals mean that the species can injury, be toxic, unsavory,etc.
+
+Simulation : What will happen ?
+
+```{r}
+# libraries:
+library(ggplot2)
+library(gganimate)
+ 
+# Make 2 basic states and concatenate them:
+a <- data.frame(group = c("harmless species","harmful species","predator"), values = c(10,10,10), frame = rep('a',3))
+b <- data.frame(group = c("harmless species","harmful species","predator"), values = c(9,9,9), frame = rep('b',3))
+data <- rbind(a,b)  
+ 
+# Basic barplot:
+ggplot(a, aes(x = group, y = values , fill = group)) + 
+  geom_bar(stat = 'identity')
+ 
+# Make a ggplot, but add frame=year: one image per year
+ggplot(data, aes(x = group, y = values , fill = group)) + 
+  geom_bar(stat = 'identity') +
+  theme_bw() +
+  # gganimate specific bits:
+  transition_states(
+    frame,
+    transition_length = 2,
+    state_length = 1
+  ) +
+  ease_aes('sine-in-out')
+
+# Save at gif:
+anim_save("batesian-time-1.gif")
+```
+
+After this simulation , we can see that the species harmless is advantaged because it look like the harmful species. 
+
+
+### The Müllerian mimicry
+
+
+
+
+
+
+
+
+
+
+

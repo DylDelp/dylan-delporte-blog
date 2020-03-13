@@ -59,32 +59,15 @@ PDF of the article without pictures and with the vocabulary in red cases:
 
 2) Common Ivy or English Ivy,  _Hedera helix_ 
 
-![](image/Hedera helix.jpg)
-
 3) Mealworm ¸ _Tenebrio molitor_
-
-Black color
-![](image/Tenebrio molitor black.jpg) 
-
-
-Red color
-![](image/Tenebrio molitor red.jpg)
 
 4) Bramble , _Rubus fructicosus_
 
-![](image/rubus fructicosus.jpg)
-
 5) Beech , _Fagus sylvatica_
-
-![](image/Beech Fagus Sylvatica.jpg)
 
 6) Holly , _Ilex aquilifolium_
 
-![](image/ilex aquilifolium.jpg)
-
 7) Hazel , _Corylus avellana_
-
-![](image/corylus avellana.jpg)
 
 # Analysis table 
 
