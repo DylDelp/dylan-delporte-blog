@@ -7,7 +7,7 @@ categories:
         - Mimicry of species
         - Müllerian mimicry
         - Mimicry of environment
-preview: image/giant squid.jpg
+preview: 
 output:
   distill::distill_article:
     self_contained: false
@@ -87,72 +87,41 @@ PDF of the article without pictures and with the vocabulary put in yellow:
 
 The two-spot octopus
 
-![](image/california two spot octopus.jpg)
-
 ### SubClass of The squids
 
 1) The giant squid , _Architeuthis dux_
 
-![](image/giant squid.jpg)
-
 2) The colossal squid, _Mesonychoteuthis hamiltoni_
-
-![](image/mesonychoteuthis hamiltoni.jpg)
 
 3) Pygmy squids, _Idiosepius paradoxus_
 
-![](image/Idiosepius paradoxus.jpg)
-
 4) The angel clubhook squid, _Ancistroteuthis lichtensteinii_
-
-![](image/Ancistroteuthis lichtensteinii.jpg)
 
 5) The robust clubhook squid, _Onykia robusta_
 
-![](image/Onykia robusta.jpg)
-
 6) The Humboldt squid or jumbo squid, _Dosidicus gigas_
-
-![](image/Dosidicus gigas.jpg)
 
 7) The purpleback ( flying ) squid, _Sthenoteuthis oualaniensis_
 
-![](image/Sthenoteuthis oualaniensis.jpg)
-
 8) The Hawaiian bobtail squid or Bigfin reef squid, _Sepioteuthis lessonianna_
-
-![](image/Sepioteuthis lessoniana.jpg)
-
 
 ## Phyllum of the Mollusca, Class of Bivalva
 
 The Pacific Oyster, _Crassostrea gigas_
 
-![](image/Crassostrea gigas.jpg)
-
 ## Phyllum of the Mollusca, Class of Gasteropoda
 
 The giant owl limpet, _Lottia gigantea_
-
-![](image/Lottia gigantea.jpg)
 
 ## Another species
 
 1) The sperm whale or cachalot, _Physeter macrocephalus_
 
-![](image/Physeter macrocephalus.jpg)
-
 2) The eel, Order of Anguilliformes
-
-![](image/anguilliformes.jpg)
 
 3) The giant seal
 
-![](image/seal.jpg)
-
 4) The spider mite 
-
-![](image/Spider Mites.jpg)
 
 # Analysis table 
 
