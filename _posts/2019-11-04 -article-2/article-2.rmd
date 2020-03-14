@@ -19,9 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # The caterpillar of the peppered moth 
 (Biston betularia)
 
-## The little story of the peppered moth 
-
-![](image/Story_peppered_moth.MP4)
+![](image/Peppered-moth-larva.jpg)
 
 # From the article
 
@@ -43,11 +41,6 @@ knitr::opts_chunk$set(echo = FALSE)
 PDF of the article without pictures and with the vocabulary put in color:
 <https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2019-11-04%20-article-2/Caterpillars%20of%20the%20peppered%20moth%20perceive%20color%20through%20their%20skin.pdf>
 
-## The larvae of Biston betularia
-
-There is a video of what look like the larvae of this species of lepidopterian
-
-![](image/peppered_moth.MP4)
 
 ## Analysis table 
 
@@ -66,9 +59,7 @@ There is the official website of the MPI for Chemical Ecology for curious people
 
 
 # Bibliography
-## Video 
-
-the videos come from youtube: 
+## Video link to illustrate this topic
 
 <https://www.youtube.com/watch?v=XBbAU1Y1PGY>  watched the 2 November 2019
 
