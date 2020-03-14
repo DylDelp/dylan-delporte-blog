@@ -4,7 +4,7 @@ author:
   - name: "Dylan Delporte"
 date: "03-13-2020"
 categories:
-        - global summary
+        - Global summary
         - Mimicry of species
         - Mimicry of environment
         - Müllerian mimicry
