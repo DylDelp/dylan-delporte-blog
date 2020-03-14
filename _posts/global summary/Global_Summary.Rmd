@@ -39,19 +39,19 @@ Simulation : What will happen ?
 
 ![](image/batesian-time-0.gif)
 
-After this simulation , we can see that the species harmless is disadvantaged.
+After this simulation , we can see that the species harmless is disadvantaged.The predator must eat the harmless species because is easier to eat it in opposition to the harmful species.
 
 
 #### Time 1: The harmless species imitates the warming signals of the harmful species 
 
 At time 1 we found a harmless species and a harmful species and a predator.
-The harmless species and the harmful species own the seem warming signals , furthermore the predator have leanr that this signals mean that the species can injury, be toxic, unsavory,etc.
+The harmless species and the harmful species own the seem warming signals , furthermore the predator have learnt that this signals mean that the species can injury, be toxic, unsavory,etc.
 
 Simulation : What will happen ?
 
 ![](image/batesian-time-1.gif)
 
-After this simulation , we can see that the species harmless is advantaged because it look like the harmful species. 
+After this simulation , we can see that the species harmless is advantaged because it look like the harmful species. The predator cannot make a difference between the two species. It have some chance to make a mistake and choose the toxic species.
 
 
 ### The Müllerian mimicry
