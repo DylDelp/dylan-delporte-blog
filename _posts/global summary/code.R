@@ -60,3 +60,4 @@ ggplot(data, aes(x = group, y = values , fill = group)) +
 # Save at gif:
 anim_save("Batesian-time-1.gif")
 
+
