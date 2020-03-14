@@ -2,7 +2,7 @@
 title: "Vocabulary from articles"
 author: 
   - name: "Dylan Delporte"
-date: "02-17-2020"
+date: "03-12-2020"
 categories:
         - vocabulary
 preview: 
