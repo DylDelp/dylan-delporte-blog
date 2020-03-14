@@ -27,7 +27,7 @@ ggplot(data, aes(x = group, y = values, fill = group)) +
   ease_aes('sine-in-out')
 
 # Save at gif:
-anim_save("batesian-time-0.gif")
+anim_save("Batesian-time-0.gif")
 
 
 #batesian time 1
@@ -58,5 +58,5 @@ ggplot(data, aes(x = group, y = values , fill = group)) +
   ease_aes('sine-in-out')
 
 # Save at gif:
-anim_save("batesian-time-1.gif")
+anim_save("Batesian-time-1.gif")
 
