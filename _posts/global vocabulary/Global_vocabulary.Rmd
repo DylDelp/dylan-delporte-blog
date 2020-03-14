@@ -150,6 +150,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | ----- | ------------------- | ------------|------------- |
 |7| Hues | Noun | It's the color or the shade of something|
+
 # I 
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
@@ -171,11 +172,6 @@ How that was study ?
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | ---------- | --------- | ------------|------------- |
 |1| A intruder |  Noun   |  Someone who comes in unwelcome places    |
-
-# J 
-
-| Article | Words from the text | Functions   |  Synonym/explanation in English |
-| -------- | ----------- | ------------|------------- |
 
 # K
 
@@ -250,10 +246,6 @@ How that was study ?
 |4| Pupal| Adjective | that make reference to pupae |
 |7| A pushpin | Noun| A thumbtack  |
 
-# Q 
-
-| Article | Words from the text | Functions   |  Synonym/explanation in English |
-| -------- | ----------- | ------------|------------- |
 
 # R 
 
@@ -353,13 +345,4 @@ How that was study ?
 |1|  A wobble      |  Noun    |   A unsteady motion  |
 |7| To wrap| Verb| To cover | 
 
-# Y
-
-| Article | Words from the text | Functions   |  Synonym/explanation in English |
-| -------- | ----------- | ------------|------------- |
-
-# Z
-
-| Article | Words from the text | Functions   |  Synonym/explanation in English |
-| -------- | ----------- | ------------|------------- |
 

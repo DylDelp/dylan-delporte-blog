@@ -6,8 +6,8 @@ library(ggplot2)
 library(gganimate)
 
 # Make 2 basic states and concatenate them:
-a <- data.frame(group = c("harmless species","harmful species","predator"), values = c(10,10,10), frame = rep('a',3))
-b <- data.frame(group = c("harmless species","harmful species","predator"), values = c(8,9,9), frame = rep('b',3))
+a <- data.frame(group = c("harmless species","harmful species","predator"), values = c(100,100,100), frame = rep('a',3))
+b <- data.frame(group = c("harmless species","harmful species","predator"), values = c(80,90,90), frame = rep('b',3))
 data <- rbind(a,b)  
 
 # Basic barplot:
@@ -28,7 +28,7 @@ ggplot(data, aes(x = group, y = values, fill = group)) +
 
 # Save at gif:
 anim_save("batesian-time-0.gif")
-```
+
 
 #batesian time 1
 
@@ -37,8 +37,8 @@ library(ggplot2)
 library(gganimate)
 
 # Make 2 basic states and concatenate them:
-a <- data.frame(group = c("harmless species","harmful species","predator"), values = c(10,10,10), frame = rep('a',3))
-b <- data.frame(group = c("harmless species","harmful species","predator"), values = c(9,9,9), frame = rep('b',3))
+a <- data.frame(group = c("harmless species","harmful species","predator"), values = c(100,100,100), frame = rep('a',3))
+b <- data.frame(group = c("harmless species","harmful species","predator"), values = c(90,90,90), frame = rep('b',3))
 data <- rbind(a,b)  
 
 # Basic barplot:
@@ -59,3 +59,4 @@ ggplot(data, aes(x = group, y = values , fill = group)) +
 
 # Save at gif:
 anim_save("batesian-time-1.gif")
+
