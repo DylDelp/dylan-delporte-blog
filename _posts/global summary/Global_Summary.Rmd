@@ -14,10 +14,6 @@ output:
   distill::distill_article:
     self_contained: false
 ---
-```{r setup}
-SciViews::R
-options(data.io_lang = "fr") # Labels en français
-```
 
 This article would be use to summerise informations about the mimicry basis on the articles and another scientific website.
 
@@ -37,44 +33,8 @@ The Batesian mimicry qualifies the fact that one species without defenses evolve
 
 At time O we found a harmless species and a harmful species and a predator.
 The harmful species is toxic or unsavory,etc and it owns a warming signals to show it.
-The predator try to eat the two different species.
 
-Simulation : What will happen ?
-
-```{r}
-# batesian time O
-
-
-# libraries:
-library(ggplot2)
-library(gganimate)
-
-# Make 2 basic states and concatenate them:
-a <- data.frame(group = c("harmless species","harmful species","predator"), values = c(100,100,100), frame = rep('a',3))
-b <- data.frame(group = c("harmless species","harmful species","predator"), values = c(80,90,90), frame = rep('b',3))
-data <- rbind(a,b)  
-
-# Basic barplot:
-ggplot(a, aes(x = group, y = values, fill = group)) + 
-  geom_bar(stat = 'identity')
-
-# Make a ggplot, but add frame=year: one image per year
-ggplot(data, aes(x = group, y = values, fill = group)) + 
-  geom_bar(stat = 'identity') +
-  theme_bw() +
-  # gganimate specific bits:
-  transition_states(
-    frame,
-    transition_length = 2,
-    state_length = 1
-  ) +
-  ease_aes('sine-in-out')
-
-# Save at gif:
-anim_save("Batesian-time-0.gif")
-
-```
-
+![](../global summary/Batesian-time-0.gif)
 
 The values on this histogram is the survival chance in percent fluctuating with the predator action.
 This simulation put on evidence that predator get poison,etc. The harmful species obtain a greater survival chance than the harmless species.
@@ -89,38 +49,7 @@ The harmless species and the harmful species own the seem warming signals , furt
 
 Simulation : What will happen ?
 
-```{r}
-#batesian time 1
-
-# libraries:
-library(ggplot2)
-library(gganimate)
-
-# Make 2 basic states and concatenate them:
-a <- data.frame(group = c("harmless species","harmful species","predator"), values = c(100,100,100), frame = rep('a',3))
-b <- data.frame(group = c("harmless species","harmful species","predator"), values = c(90,90,90), frame = rep('b',3))
-data <- rbind(a,b)  
-
-# Basic barplot:
-ggplot(a, aes(x = group, y = values , fill = group)) + 
-  geom_bar(stat = 'identity')
-
-# Make a ggplot, but add frame=year: one image per year
-ggplot(data, aes(x = group, y = values , fill = group)) + 
-  geom_bar(stat = 'identity') +
-  theme_bw() +
-  # gganimate specific bits:
-  transition_states(
-    frame,
-    transition_length = 2,
-    state_length = 1
-  ) +
-  ease_aes('sine-in-out')
-
-# Save at gif:
-anim_save("Batesian-time-1.gif")
-
-```
+![](../global summary/Batesian-time-1.gif)
 
 
 The values on this histogram is the survival chance in percent fluctuating with the predator action.
