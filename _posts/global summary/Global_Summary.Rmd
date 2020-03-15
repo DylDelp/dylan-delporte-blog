@@ -21,13 +21,13 @@ This article would be use to summerise informations  basis on the articles and a
 
 ## The mimicry
 
-The mimicry can be defined as an ressemblance between ogarnisms coming from different species. This ressemblance may be physical with colours, shape, etc or it may be linked by the seem behavior.
+The mimicry can be defined as an ressemblance between ogarnisms coming from different species. This ressemblance may be physical with colours, shape, etc or it may be linked by the same behavior.
 
 There are differents situations where mimicry can be defined through differents analysis.
 
 ### The Batesian mimicry
 
-The Batesian mimicry qualifies the fact that one species without defenses evolved to look like a harmful species having the seem predators than the species harmless.
+The Batesian mimicry qualifies the fact that one species without defenses evolved to look like a harmful species having the same predators than the species harmless.
 
 #### Time O : Initial situation with two different species 
 
@@ -45,7 +45,7 @@ After this simulation , we can see that the species harmless is disadvantaged.Th
 #### Time 1: The harmless species imitates the warming signals of the harmful species 
 
 At time 1 we found a harmless species and a harmful species and a predator.
-The harmless species and the harmful species own the seem warming signals , furthermore the predator have learnt that this signals mean that the species can injury, be toxic, unsavory,etc.
+The harmless species and the harmful species own the same warming signals , furthermore the predator have learnt that this signals mean that the species can injury, be toxic, unsavory,etc.
 
 Simulation : What will happen ?
 
@@ -70,7 +70,7 @@ The sound is a weapons used by some predator to attract its prey like for Katali
 
 ### The Müllerian mimicry
 
-The Müllerian mimicry qualifies the fact that one species with defenses evolved to look like a harmful species having the seem predators and the seem defensive way than the first species harmful.
+The Müllerian mimicry qualifies the fact that one species with defenses evolved to look like a harmful species having the seem predators and the same defensive way than the first species harmful.
 
 For example : Bee and Wasp owning yellow and black band.
 
