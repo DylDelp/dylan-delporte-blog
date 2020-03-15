@@ -15,15 +15,15 @@ output:
     self_contained: false
 ---
 
-This article would be use to summerise informations about the mimicry basis on the articles and another scientific website.
+This article would be use to summerise informations  basis on the articles and another scientific website about mimicry.
 
 # Definitions
 
 ## The mimicry
 
-The mimicry can be defined as an ressemblance between ogarnisms coming from different species. This ressemblance must be physical with colours, shape, etc or it must be linked by the seem behavior.
+The mimicry can be defined as an ressemblance between ogarnisms coming from different species. This ressemblance may be physical with colours, shape, etc or it may be linked by the seem behavior.
 
-There are different situation where mimicry can be defined giving different analysis.
+There are differents situations where mimicry can be defined through differents analysis.
 
 ### The Batesian mimicry
 
