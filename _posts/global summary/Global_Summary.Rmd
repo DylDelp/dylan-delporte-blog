@@ -21,7 +21,7 @@ This article would be use to summerise informations  basis on the articles and a
 
 ## The mimicry
 
-The mimicry can be defined as an ressemblance between ogarnisms coming from different species. This ressemblance may be physical with colours, shape, etc or it may be linked by the same behavior.
+The mimicry can be defined as an ressemblance between organisms coming from different species. This ressemblance may be physical with colours, shape, etc or it may be linked by the same behavior.
 
 There are differents situations where mimicry can be defined through differents analysis.
 
@@ -31,8 +31,8 @@ The Batesian mimicry qualifies the fact that one species without defenses evolve
 
 #### Time O : Initial situation with two different species 
 
-At time O we found a harmless species and a harmful species and a predator.
-The harmful species is toxic or unsavory,etc and it owns a warming signals to show it.
+At time O we have a harmless species and a harmful species and a predator.
+The harmful species is toxic or unsavory,etc and it owns a warning signals to show it.
 
 ![](../global summary/Batesian-time-0.gif)
 
@@ -42,10 +42,10 @@ This simulation put on evidence that predator get poison,etc. The harmful specie
 After this simulation , we can see that the species harmless is disadvantaged.The predator must eat the harmless species because is easier to eat it in opposition to the harmful species.
 
 
-#### Time 1: The harmless species imitates the warming signals of the harmful species 
+#### Time 1: The harmless species imitates the warning signals of the harmful species 
 
-At time 1 we found a harmless species and a harmful species and a predator.
-The harmless species and the harmful species own the same warming signals , furthermore the predator have learnt that this signals mean that the species can injury, be toxic, unsavory,etc.
+At time 1 we have a harmless species and a harmful species and a predator.
+The harmless species and the harmful species own the same warning signals , furthermore the predator have learnt that this signals mean that the species can injury, be toxic, unsavory,etc.
 
 Simulation : What will happen ?
 
