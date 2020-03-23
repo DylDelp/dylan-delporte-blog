@@ -18,7 +18,7 @@
       "Batesian mimicry"
     ],
     "preview": {},
-    "last_modified": "2020-03-15T17:45:38+01:00"
+    "last_modified": "2020-03-16T14:34:19+01:00"
   },
   {
     "path": "posts/global vocabulary/",
@@ -35,7 +35,7 @@
       "vocabulary"
     ],
     "preview": {},
-    "last_modified": "2020-03-15T12:26:26+01:00"
+    "last_modified": "2020-03-15T12:26:28+01:00"
   },
   {
     "path": "posts/2020-03-02-article-7/",
@@ -51,8 +51,8 @@
     "categories": [
       "Mimicry of species"
     ],
-    "preview": {},
-    "last_modified": "2020-03-15T12:25:34+01:00"
+    "preview": "posts/2020-03-02-article-7/image/iridescence.jpg",
+    "last_modified": "2020-03-23T14:41:17+01:00"
   },
   {
     "path": "posts/2020-02-16-article-6/",
@@ -71,7 +71,7 @@
       "Mimicry of environment"
     ],
     "preview": {},
-    "last_modified": "2020-03-15T12:25:06+01:00"
+    "last_modified": "2020-03-23T14:42:17+01:00"
   },
   {
     "path": "posts/2019-12-16-article-5/",
@@ -88,7 +88,7 @@
       "Mimicry of species"
     ],
     "preview": "posts/2019-12-16-article-5/image/Entylia carinata 1.jpg",
-    "last_modified": "2020-03-15T12:24:40+01:00"
+    "last_modified": "2020-03-23T14:42:05+01:00"
   },
   {
     "path": "posts/2019-12-02-article-4/",
@@ -106,7 +106,7 @@
       "Müllerian mimicry"
     ],
     "preview": "posts/2019-12-02-article-4/image/Bombus melanopygus.png",
-    "last_modified": "2020-03-15T12:23:24+01:00",
+    "last_modified": "2020-03-15T12:23:26+01:00",
     "preview_width": 800,
     "preview_height": 800
   },
@@ -126,7 +126,7 @@
       "Müllerian mimicry"
     ],
     "preview": "posts/2019-11-18 -article-3/images/morphology of butterfly.jpg",
-    "last_modified": "2020-03-15T12:23:09+01:00"
+    "last_modified": "2020-03-15T12:23:10+01:00"
   },
   {
     "path": "posts/2019-11-04 -article-2/",
@@ -144,7 +144,7 @@
       "Mimicry of environment"
     ],
     "preview": "posts/2019-11-04 -article-2/image/Peppered-moth-larva.jpg",
-    "last_modified": "2020-03-15T12:22:53+01:00"
+    "last_modified": "2020-03-15T12:22:54+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -163,7 +163,7 @@
       "Batesian mimicry"
     ],
     "preview": "posts/2019-09-18-article-1/image/Mimic Octopus.jpg",
-    "last_modified": "2020-03-15T12:22:05+01:00"
+    "last_modified": "2020-03-15T12:22:07+01:00"
   },
   {
     "path": "posts/My english activity log/",
@@ -180,6 +180,6 @@
       "My english activity log"
     ],
     "preview": "posts/My english activity log/image/Crypt_TV_logo_(2018).jpg",
-    "last_modified": "2020-03-15T12:26:51+01:00"
+    "last_modified": "2020-03-15T12:26:52+01:00"
   }
 ]

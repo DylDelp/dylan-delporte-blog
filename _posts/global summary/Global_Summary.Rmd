@@ -29,9 +29,9 @@ There are differents situations where mimicry can be defined through differents 
 
 The Batesian mimicry qualifies the fact that one species without defenses evolved to look like a harmful species having the same predators than the species harmless.
 
-#### Time O : Initial situation with two different species 
+#### Time 0 : Initial situation with two different species 
 
-At time O we have a harmless species and a harmful species and a predator.
+At time 0 we have a harmless species, a harmful species and a predator.
 The harmful species is toxic or unsavory,etc and it owns a warning signals to show it.
 
 ![](../global summary/Batesian-time-0.gif)
@@ -83,7 +83,7 @@ If the background is brown, they become brown to disappear to the predator-eyes.
 
 ![](image/biston betularia graphic.png)
 
-
+Note : The larvae were placed individually in diagonal dowel arenas to make the mesure used to make its graphics.
 
 
 
@@ -91,6 +91,8 @@ If the background is brown, they become brown to disappear to the predator-eyes.
 
 
 # Bibliography
+
+Extra website about the peppered moth from article 2
 
 <https://www.nature.com/articles/s42003-019-0502-7>
 consulted the 15th of March 2020 at 4pm and 32 minutes
