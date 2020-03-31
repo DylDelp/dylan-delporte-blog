@@ -1,0 +1,75 @@
+---
+title: "Article 2: Caterpillars of the peppered moth perceive color through their skin"  
+author: 
+  - name: "Dylan Delporte"
+date: "11-02-2019"
+categories:
+        - Mimicry of species
+        - Mimicry of environment
+preview: image/Peppered-moth-larva.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# The caterpillar of the peppered moth 
+(Biston betularia)
+
+![](image/Peppered-moth-larva.jpg)
+
+# From the article
+
+
+## Vocabulary 
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+| A twig  |  Noun | A piece of wood from a tree |
+| To sense | Verb | It's the abilities of evolve in fonction of stimulus from the environment to can react by after |
+| The surrounding | Noun  | Everything who encircle something , the environment |
+| The diet | Noun | The food |
+| The riddle | Noun | A enigma, a problem to solve like a mystery |
+| To blindfold | Verb | To cover eyes with a bandage for example |
+
+
+## PDF
+
+PDF of the article without pictures and with the vocabulary put in color:
+<https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2019-11-04%20-article-2/Caterpillars%20of%20the%20peppered%20moth%20perceive%20color%20through%20their%20skin.pdf>
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Max Planck Institute for Chemical Ecology |
+| Published in?                | 2 August 2019  |
+| General topic?               | The peppered moth's larvae |
+| Procedure/what was examined? |  His abilities to change color without see with his eyes |
+| Conclusions/discovery?       | This caterpillar can see his environment's colors with his skin and his eyes |
+| Remaining questions?         | There are no remaining questions |
+
+There is the official website of the MPI for Chemical Ecology for curious people  : <https://www.mpg.de/de>
+
+
+
+
+# Bibliography
+## Video link to illustrate this topic
+
+<https://www.youtube.com/watch?v=XBbAU1Y1PGY>  watched the 2 November 2019
+
+<https://www.youtube.com/watch?v=jD8w3SOlYOk>  watched the 2 November 2019
+
+## Website
+
+<https://www.sciencedaily.com/releases/2019/08/190802104526.htm>
+consulting the 28 october 2019
+
+## Image 
+all remaining pictures come from google image
+

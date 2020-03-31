@@ -1,0 +1,8 @@
+---
+title: "Ecogen syllabus"
+author: "Dylan Delporte"
+date: "3/31/2020"
+output: html_document
+---
+
+<>
