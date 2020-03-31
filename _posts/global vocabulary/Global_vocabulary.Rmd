@@ -23,8 +23,8 @@ knitr::opts_chunk$set(echo = FALSE)
 |4| Adulthood | Noun | The mature state of an insect |
 |6| Alas | Abbreviation | Alaska|
 |4| To alter | Verb | To change the nature of something , its character or its composition|
-|7| A aperture| Noun | A hole where light pass through | 
-|4| Aposematic | Adjective | In zoology it's the phenomenon where a animal warm its predator that it's dangerous |
+|7| An aperture| Noun | A hole where light pass through | 
+|4| Aposematic | Adjective | In zoology it's the phenomenon where an animal warns its predator that it's dangerous |
 |3| Apt | Adjective | Given |
 |3| Arguably | Adverb | Problably, perhaps, maybe,...    |
 |6| To arise from (arose, arose, arisen) | Verb  |To start to exist |

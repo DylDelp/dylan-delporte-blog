@@ -43,7 +43,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Handling  | Noun | When you take something in your hands| 
 | Rangefinder| Noun | It's a object used to estimate distance with a laser |
 |To pin To | Verb | To attach with pin |
-| A aperture| Noun | A hole where light pass through | 
+| An aperture| Noun | A hole where light pass through | 
 | A percentile | Noun| A pourcentage|
 
 ## PDF

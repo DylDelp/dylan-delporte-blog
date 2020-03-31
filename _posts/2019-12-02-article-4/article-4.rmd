@@ -39,7 +39,7 @@ knitr::opts_chunk$set(echo = TRUE)
 | The pleotropy | Noun | It's a phenomenon where one gene influences two other genes or more than two|
 | To Decipher | Verb | To decrypt , decode|
 | Distasteful | Adjective | unpleasant |
-| Aposematic | Adjective | In zoology it's the phenomenon where a animal warm its predator that it's dangerous |
+| Aposematic | Adjective | In zoology it's the phenomenon where an animal warns its predator that it's dangerous |
 | The insight(s)| Noun | the comprehension, the understanding |
 | To co-opt | Verb | To use in another role than the initial one|
 | The introgression | Noun| it's the transfer of gene between two species by theirs hybrid |
