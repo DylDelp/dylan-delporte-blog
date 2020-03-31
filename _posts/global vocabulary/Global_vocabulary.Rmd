@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | ------- | ------------------- | ------------|------------- |
 |3| Advergence | Noun | In Biology the advergence is the evolutionary tendency where a species develops characteristics pairwise from another species. This mimic event looks like the co-evolution based of the Müllerian mimecry or the fact that a species imitate another model of species.
-|4| Adulthood | Noun | The mature state of an isect |
+|4| Adulthood | Noun | The mature state of an insect |
 |3| Agruably | Adverb | Problably, perhaps, maybe,...    |
 |6| Alas | Abbreviation | Alaska|
 |4| To alter | Verb | To change the natuur of something , its character or its composition|
