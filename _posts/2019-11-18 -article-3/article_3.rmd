@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Functions   |  Synonym/explanation in English |
 | ------------------- | ------------|------------- |
-| Agruably | Adverb | Problably, perhaps, maybe,...    |
+| Arguably | Adverb | Problably, perhaps, maybe,...    |
 | Therefore | Adverb | As a result, so |
 | Counterintuitive | Adjective | Something opposed to a common-sense or intuitions |
 | To prompt |Verb | To encourage something, to cause something |

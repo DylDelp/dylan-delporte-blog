@@ -54,7 +54,7 @@ How that was study ?
 | Melanin, Eumelanin, Pheomelanin| Noun| Pigments|
 | Pathway |Noun | A serie of chemicals reactions catalysed by enzymes who are linked |
 | Presumably| Adverb | Probably | 
-| To alter | Verb | To change the natuur of something , its character or its composition|
+| To alter | Verb | To change the nature of something , its character or its composition|
 | Upstream | Adjective | In the other sens|
 
 ![](image/upstream_downstream.png)

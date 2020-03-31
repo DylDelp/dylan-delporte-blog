@@ -21,12 +21,12 @@ knitr::opts_chunk$set(echo = FALSE)
 | ------- | ------------------- | ------------|------------- |
 |3| Advergence | Noun | In Biology the advergence is the evolutionary tendency where a species develops characteristics pairwise from another species. This mimic event looks like the co-evolution based of the Müllerian mimecry or the fact that a species imitate another model of species.
 |4| Adulthood | Noun | The mature state of an insect |
-|3| Agruably | Adverb | Problably, perhaps, maybe,...    |
 |6| Alas | Abbreviation | Alaska|
-|4| To alter | Verb | To change the natuur of something , its character or its composition|
+|4| To alter | Verb | To change the nature of something , its character or its composition|
 |7| A aperture| Noun | A hole where light pass through | 
 |4| Aposematic | Adjective | In zoology it's the phenomenon where a animal warm its predator that it's dangerous |
 |3| Apt | Adjective | Given |
+|3| Arguably | Adverb | Problably, perhaps, maybe,...    |
 |6| To arise from (arose, arose, arisen) | Verb  |To start to exist |
 |6|The array(s) | Noun | The arrangement |
 |6| Ashore | Adverb | coming up to the sea |
