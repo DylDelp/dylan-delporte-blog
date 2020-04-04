@@ -78,7 +78,7 @@ How that was study ?
 | Male sex comb | Noun | something that use Drosophila to grasp on the female |
 | Forelimb(s) | Noun | Posterior member |
 | Hindlimb(s) | Noun | Anterior member|
-| corbicula pollen basket | Noun | a cavity where the pollen is stocked ,surrounded by setae |
+|  pollen basket or corbicula | Noun | a cavity where the pollen is stocked ,surrounded by setae |
 ![](image/honeybee_hindleg.jpg)
 
 | Words from the text | Functions   |  Synonym/explanation in English |

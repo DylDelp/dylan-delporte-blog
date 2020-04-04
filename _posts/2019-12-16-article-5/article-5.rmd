@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = TRUE)
 | A mesh | Noun | A network |
 | Rooftop | Noun | The surface of the roof |
 | To feast | Verb | To make a good meal , To feed  |
-| To blow | Verb | To impress |
+| To (mind-)blow | Verb | To impress |
 | Indeed | Adverb | In fact ,to be sure  |
 | The thorn | Noun | a spine of tree |
 | To perch atop | Verb | To be on the peak of something|

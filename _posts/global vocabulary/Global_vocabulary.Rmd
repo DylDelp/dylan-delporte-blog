@@ -38,18 +38,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | --------- | ---------- | ------------|------------- |
-|4| corbicula pollen basket | Noun | a cavity where the pollen is stocked ,surrounded by setae |
+|4| pollen basket or corbicula| Noun | a cavity where the pollen is stocked ,surrounded by setae |
 ![](image/honeybee_hindleg.jpg)
 
 | Article | Words from the text | Functions   |  Synonym/explanation in English |
 | --------- | ---------- | ------------|------------- |
-|6| A beak| Noun | A  piece of the anatomy used to break the food like for bird on the mouth|
+|6| A beak| Noun | A  piece of the anatomy used to break the food like for birds|
 |6| A bench | Noun| A long table|
 |1|   To bent     | Verb    |       To change the shape         |
 |6|To blend| Verb| To mix|
 |2| To blindfold | Verb | To cover eyes with a bandage for example |
 |6|Blobby| Adjective| Viscous |
-|5| To blow | Verb | To impress |
+|5| To (mind-)blow | Verb | To impress |
 |5| To borrow | Verb | To take something with the aim to return it |
 |3| Brand new | Adjective | Completely new |
 |3| Broadly | Adverb | In general without details |

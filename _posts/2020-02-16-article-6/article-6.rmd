@@ -34,7 +34,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Eclectic | Adjective | Wide |
 | Slimy | Adjective | Like slime|
 | To maroon| Verb | To be lost |
-| A beak| Noun | A  piece of the anatomy used to break the food like for bird on the mouth|
+| A beak| Noun | A  piece of the anatomy used to break the food like for birds|
 | The realm | Noun  | A kingdom|
 | The counterpart | Noun | Something with the same function than another thing |
 | Squishy | Adjective| Soft |
