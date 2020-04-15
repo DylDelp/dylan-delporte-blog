@@ -2,7 +2,7 @@
 title: "article analysis"
 author: 
   - name: "Dylan Delporte"
-date: "04-20-2019"
+date: "04-20-2020"
 categories:
         - Mimicry of species
         - rapport
