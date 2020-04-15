@@ -198,5 +198,77 @@
     ],
     "preview": "posts/My english activity log/image/Crypt_TV_logo_(2018).jpg",
     "last_modified": "2020-03-15T12:26:52+01:00"
+  },
+  {
+    "path": "posts/2020-04-20-introduction/",
+    "title": "Introduction: The mimicry",
+    "description": {},
+    "author": [
+      {
+        "name": "Dylan Delporte",
+        "url": {}
+      }
+    ],
+    "date": "2019-04-20",
+    "categories": [
+      "Mimicry of species",
+      "rapport"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-15T17:16:58+02:00"
+  },
+  {
+    "path": "posts/2020-04-20-articles-analysis/",
+    "title": "article analysis",
+    "description": {},
+    "author": [
+      {
+        "name": "Dylan Delporte",
+        "url": {}
+      }
+    ],
+    "date": "2019-04-20",
+    "categories": [
+      "Mimicry of species",
+      "rapport"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-15T17:17:16+02:00"
+  },
+  {
+    "path": "posts/2020-04-20-conclusion/",
+    "title": "Conclusion",
+    "description": {},
+    "author": [
+      {
+        "name": "Dylan Delporte",
+        "url": {}
+      }
+    ],
+    "date": "2019-04-20",
+    "categories": [
+      "Mimicry of species",
+      "rapport"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-15T17:17:36+02:00"
+  },
+  {
+    "path": "posts/2020-04-20-bibliography/",
+    "title": "Bibliography",
+    "description": {},
+    "author": [
+      {
+        "name": "Dylan Delporte",
+        "url": {}
+      }
+    ],
+    "date": "2019-04-20",
+    "categories": [
+      "Mimicry of species",
+      "rapport"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-15T17:17:58+02:00"
   }
 ]
