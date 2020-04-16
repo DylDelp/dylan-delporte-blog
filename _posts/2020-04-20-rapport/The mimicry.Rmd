@@ -1,0 +1,11 @@
+---
+title: "Rapport"
+author: "The mimicry"
+date: "4/20/2020"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
