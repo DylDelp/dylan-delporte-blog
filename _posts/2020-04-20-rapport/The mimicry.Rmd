@@ -1,8 +1,13 @@
 ---
 title: "Rapport"
-author: "The mimicry"
-date: "4/20/2020"
-output: word_document
+author: 
+  - name: "Dylan Delporte"
+date: "04-20-2020"
+categories:
+         - rapport
+output:
+  distill::distill_article:
+    self_contained: false
 ---
 
 ```{r setup, include=FALSE}
@@ -10,8 +15,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 First name/surname : Dylan Delporte 
+
+
 Teacher’s name: Nicolas Devilez
+
+
 Class name: BAB2 bio, group 4 
+
+
 Academic year: 2019-2020
 
 
@@ -25,39 +36,214 @@ Academic year: 2019-2020
 
 
 
+## Table of contents
+### 1. Brief introduction
+### 2. Seven analyses and articles (in another pdf)
+#### 2.1. Article 1: 8 animals that exhibit mimicry
+#### 2.2. Article 2: Caterpillars of peppered moth perceive color through their skin
+#### 2.3. Article 3: Mutual coevolution in Müllerian mimicry? Arguably, new data suggest yes
+#### 2.4. Article 4: A homeotic shift late in development drives mimetic color variation in a bumble bee 
+#### 2.5. Article 5: Wing genes responsible for tiny treehopper’s extraordinary helmet
+#### 2.6. Article 6: The giant squid genome holds surprises
+#### 2.7. Article 7: Iridescence as camouflage
+### 3. Conclusion
+### 4. Bibliography
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-Table of contents
-1. Brief introduction
-2. Seven analyses and articles (in another pdf)
-2.1. Article 1: 8 animals that exhibit mimicry
-2.2. Article 2: Caterpillars of peppered moth perceive color through their skin
-2.3. Article 3: Mutual coevolution in Müllerian mimicry? Arguably, new data suggest yes
-2.4. Article 4: A homeotic shift late in development drives mimetic color variation in a bumble bee 
-2.5. Article 5: Wing genes responsible for tiny treehopper’s extraordinary helmet
-2.6. Article 6: The giant squid genome holds surprises
-2.7. Article 7: Iridescence as camouflage
-3. Conclusion
-4. Bibliography
-
-1. Brief introduction
+## 1. Brief introduction
 This introduction will introduce you my portfolio about the mimicry.
+
+
 The mimicry is a strong resemblance between two species (or more). The species who imitate is called mimic and the species (or the object) imitated is called the model. The relation between the two species led to an evolutive convergence where constraints are similar. Likeness can be various according the species concerned. 
+
 
 Different phenomenon can be linked to several concept like the warning signals. This kind of signals can be visual or olfactive see noisy for predator (but not necessary for another species). Its aim is to warn their predators that it’s not a good idea to eat it because they can be toxic or unsavory. Except some mimetic species who couldn’t be risky.
 
+
 Studying genes from different mimetic species, it’s possible to see how they are different in spite of the fact the look like similar. Special genes can explain the likeness between species, they are called Homeobox gene (or Hox genes). This Hox genes characterises the position and the function of a body plan since its embryology. Interesting data can be obtained about the mimicry to detect how the likeness is not the only characteristic to have in mind to regroup species.
-2. Seven analyses and articles (in another pdf)
-2.1. Article 1: 8 animals that exhibit mimicry
+
+## 2. Seven analyses and articles (in another pdf)
+### 2.1. Article 1: 8 animals that exhibit mimicry
+#### Vocabulary 
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+| Mimicry | Noun | Definition from the article: "an evolved resemblance in appearance or behavior between one organism and another, usually of a different species" |
+| To exhibit   | Verb | To present something         |
+| To highlight  | Verb  | To put in evidence                    |
+|  The marsh gentian | Noun   | A plant  |
+| The  marsh       | Noun | A swamp |
+| To trick      |   Verb  |   To make an illusion , to cheat     |
+| To hatch |  Verb     |  To get out of a egg |
+| The intruder |  Noun   |  Someone who comes in unwelcome places    |
+| Loosely    |  Adverb  | Free        |
+|   A scales      |   Noun   |  A external piece of keratin like for turtles , birds, snakes and the tail of rats |
+|     To deter       |  Verb      |      To give fear, to discourage   |
+|     A mantis shrimp       |   Noun    |   A crustacean who punch its prey to capture it  |
+| To flatten   |  Verb |  To become plat          |
+| To raise     |  Verb  |   To elevate           |
+|   To bent     | Verb    |       To change the shape         |
+|     To sink    |  Verb  |   To drop, To go down             |
+|       Harmless     |    Adjective   |   Safe         |
+|     Unsavory   |  Adjective  |    Disagreeable to eat              |
+| The Wings-click |  Noun  |   The fact of produse sound with wings |
+|    A maggot  |  Noun |    For example a larvae of fly      |
+|    A robin , a chat     |    Noun |    There are birds                  |
+| Dihedral forming wings | Noun and adjectives | ![](image/Dihedral wings.gif ) |
+|  A wobble      |  Noun    |   A unsteady motion  |
+|     To trigger  |     Verb  |   To cause        |
+
+#### Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Victor KRIPROP , profession unknow                       |
+
+
+| Published in?                | 17 October 2019 at 5 PM                                                     |
+| General topic?               | The general topic is the 8 animals who can exhibit the mimecry |
+| Procedure/what was examined? |   How they use their abilities  |
+| Conclusions/discovery?       |  The author do a list about mimic species |
+| Remaining questions?         | There are no remaining questions at the end of the article |
+
+### 2.2. Article 2: Caterpillars of peppered moth perceive color through their skin
+#### Vocabulary 
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+| A twig  |  Noun | A piece of wood from a tree |
+| To sense | Verb | It's the abilities of evolve in fonction of stimulus from the environment to can react by after |
+| The surrounding | Noun  | Everything who encircle something , the environment |
+| The diet | Noun | The food |
+| The riddle | Noun | A enigma, a problem to solve like a mystery |
+| To blindfold | Verb | To cover eyes with a bandage for example |
+
+#### Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Max Planck Institute for Chemical Ecology |
+| Published in?                | 2 August 2019  |
+| General topic?               | The peppered moth's larvae |
+| Procedure/what was examined? |  His abilities to change color without see with his eyes |
+| Conclusions/discovery?       | This caterpillar can see his environment's colors with his skin and his eyes |
+| Remaining questions?         | There are no remaining questions |
+### 2.3. Article 3: Mutual coevolution in Müllerian mimicry? Arguably, new data suggest yes
+#### Vocabulary 
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+| Arguably | Adverb | Problably, perhaps, maybe,etc  |
+| Therefore | Adverb | As a result, so |
+| Counterintuitive | Adjective | Something opposed to a common-sense or intuitions |
+| To prompt |Verb | To encourage something, to cause something |
+| To dug down | Verb | To make a hole, in this context it is more  "To reseach" |
+| Pairwise | Adjective | Simular |
+| Inherent | Adjective | Fundamental |
+| Broadly | Adverb | In general without details |
+| Tricky | Adjective | Difficult |
+| The novelty | Noun | Something unusual, something new |
+| Markedly | Adverb | Obvious |
+| Somewhat | Adverb | A little |
+| The centroid | Noun | A geometric center |
+| The lineages | Noun | It's the descendants from a commun  ancestor |
+| Brand new | Adjective | Completely new |
+| Switcheroo (North USA , informal) | Noun | A change |
+| Advergence | Noun | In Biology the advergence is the evolutionary tendency where a species develops characteristics pairwise from another species. This mimic event looks like the co-evolution based of the Müllerian mimecry or the fact that a species imitate another model of species.
+| Correspondingly | Adverb | In consequence |
+| To grow up | Verb | To become an adult |
+| New-frangled (derogatory)| Adjective | Different of what we use usually |
+| Apt | Adjective | Given |
+
+#### Morphology of butterfly
+
+| Anatomy | Word's function | Definition |
+|--------------------|--------------------|---------------------|
+| Forewing | Noun | The two first wings of insecta |
+| Hindwing | Noun | The two posterior wings of insecta|
+![](images/morphology of butterfly.jpg)
+
+#### Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers ( author)                | Jennifer Hoyal Cuthill , reseachers from the Cambridge's University |
+| Author's picture   | ![](images/Jen hoyal culthill.jpg)|
+| Published in?               | 27 August 2019 |
+| General topic?              | Heliconius species, a butterfly |
+| Procedure/what was examined? |The evolution of two butterfly species of  Heliconius species |
+| Conclusions/discovery?       | There are a co-evolution between two species of Heliconius |
+| Remaining questions?         | There are "normaly" no remaining questions |
+
+### 2.4. Article 4: A homeotic shift late in development drives mimetic color variation in a bumble bee 
+#### Vocabulary 
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+| Homeotic | Adjective | Qualify a gene who has a rol in the development of the anatomy, organs or body|
+| Nonmodel system | Adjective and noun | A system who is not extensively studied |
+| Setal (setae) | Noun | a bristel, a thin hair |
+| To establish | Verb | To set up |
+| A cis-regulatory locus| Noun | A non-coding area of DNA |
+| Fate-determining | Noun | It's the fact of understand how a cell in particular becomes a final part of a organism|
+| The pleotropy | Noun | It's a phenomenon where one gene influences two other genes or more than two|
+| To Decipher | Verb | To decrypt , decode|
+| Distasteful | Adjective | unpleasant |
+| Aposematic | Adjective | In zoology it's the phenomenon where an animal warns its predator that it's dangerous |
+| The insight(s)| Noun | the comprehension, the understanding |
+| To co-opt | Verb | To use in another role than the initial one|
+| The introgression | Noun| it's the transfer of gene between two species by theirs hybrid |
+| To impart | Verb| to communicate, to confer|
+| To uncover| Verb | To found|
+| Melanin, Eumelanin, Pheomelanin| Noun| Pigments|
+| Pathway |Noun | A serie of chemicals reactions catalysed by enzymes who are linked |
+| Presumably| Adverb | Probably | 
+| To alter | Verb | To change the nature of something , its character or its composition|
+| Upstream | Adjective | In the other sens|
+| To refine | Verb | To clarify |
+| Fruitful | Adjective | Fertile, productive |
+| Sanger sequencing (PCR) | Noun | It's a method to determine a sequence of DNA |
+| Holometabolous (metamorphosis) | Adjective | complete (metamophosis of insect ) : larvae, pupae , adult | 
+| Pupae| Noun| An inactive and immature state of an insect for example the chrysalis |
+| Pupal| Adjective | that make reference to pupae |
+| Adulthood | Noun | The mature state of an insect |
+| Callow | Adjective | Immature , without experience|
+| The Increment | Noun| A gain| 
+| Geyish| Adjective | A bit grey |
+| A grayer tinge | Noun | A color grey |
+| Onsite | Adjective - Adverb | Taking place|
+| Regardless| Adverb | Nevertheless|
+| The uptick (North American) | Noun| A little bit increase |
+| Male sex comb | Noun | something that use Drosophila to grasp on the female |
+| Forelimb(s) | Noun | Posterior member |
+| Hindlimb(s) | Noun | Anterior member|
+|  pollen basket or corbicula | Noun | a cavity where the pollen is stocked ,surrounded by setae |
+| Ferruginous | Adjective| holding within iron oxyde |
+| The heterotopy | Noun | A abnormal position from the normal placement |
+| The insulators | Noun | A substance who blocks the passage of electricity , heat or sound|
+| Demarcating | Adjective | Separed|
+| Toolkit| Noun | A tools' set |
+| Indel(s) | Noun | It's a biological term to qualify the deletion or the insection of base in DNA (genome) |
+| Desiquilibrium | Noun | Destability|
+| The avoidance | Noun | It's the fact to avoid something|
+| Trimming | Noun | something cut in small pieces |
+
+
+
+#### Analysis table 
+
+|               |                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| __Researchers From The Pennyslvania State University __| __Departement__|
+| Li Tian | Biology |
+| Sarthok Rasique Rahman | Biology|
+| Briana D. Ezray| Entomology |
+| Luca Franzini| Entomology | 
+| __Another Researches__ | James P.Strange ,Patrick LHomme and Heather M.Hines| 
+| __Published in?__                |  The 6 November 2019 |
+| __General topic?__               | The color variation observed by bumble bee |
+| __Procedure/what was examined?__ | The genes during the development of bumble bee to see how change the color and what gene occurs this change |
+| __Conclusions/discovery?__ | The evolution influences the phenotype in function of the area and the selection-specific of genes |
+| __Remaining questions?__   | There are no remaining questions |
+

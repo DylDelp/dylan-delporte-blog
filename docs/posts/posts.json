@@ -1,7 +1,7 @@
 [
   {
-    "path": "posts/2020-04-20-articles-analysis/",
-    "title": "article analysis",
+    "path": "posts/2020-04-20-rapport/",
+    "title": "Rapport",
     "description": {},
     "author": [
       {
@@ -11,65 +11,10 @@
     ],
     "date": "2020-04-20",
     "categories": [
-      "Mimicry of species",
       "rapport"
     ],
     "preview": {},
-    "last_modified": "2020-04-15T17:31:52+02:00"
-  },
-  {
-    "path": "posts/2020-04-20-bibliography/",
-    "title": "Bibliography",
-    "description": {},
-    "author": [
-      {
-        "name": "Dylan Delporte",
-        "url": {}
-      }
-    ],
-    "date": "2020-04-20",
-    "categories": [
-      "Mimicry of species",
-      "rapport"
-    ],
-    "preview": {},
-    "last_modified": "2020-04-15T17:33:48+02:00"
-  },
-  {
-    "path": "posts/2020-04-20-conclusion/",
-    "title": "Conclusion",
-    "description": {},
-    "author": [
-      {
-        "name": "Dylan Delporte",
-        "url": {}
-      }
-    ],
-    "date": "2020-04-20",
-    "categories": [
-      "Mimicry of species",
-      "rapport"
-    ],
-    "preview": {},
-    "last_modified": "2020-04-15T17:33:22+02:00"
-  },
-  {
-    "path": "posts/2020-04-20-introduction/",
-    "title": "Introduction: The mimicry",
-    "description": {},
-    "author": [
-      {
-        "name": "Dylan Delporte",
-        "url": {}
-      }
-    ],
-    "date": "2020-04-20",
-    "categories": [
-      "Mimicry of species",
-      "rapport"
-    ],
-    "preview": {},
-    "last_modified": "2020-04-16T12:08:53+02:00"
+    "last_modified": "2020-04-16T20:28:37+02:00"
   },
   {
     "path": "posts/global summary/",
@@ -235,7 +180,7 @@
       "Batesian mimicry"
     ],
     "preview": "posts/2019-09-18-article-1/image/Mimic Octopus.jpg",
-    "last_modified": "2020-03-15T12:22:07+01:00"
+    "last_modified": "2020-04-16T20:31:58+02:00"
   },
   {
     "path": "posts/My english activity log/",

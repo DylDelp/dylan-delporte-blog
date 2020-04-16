@@ -45,7 +45,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | The Wings-click |  Noun  |   The fact of produse sound with wings |
 |    A maggot  |  Noun |    For example a larvae of fly      |
 |    A robin , a chat     |    Noun |    There are birds                  |
-| Dihedral forming wings | Noun and adjectives | ![](image/Dihedral wings.gif ) |
+| Dihedral forming wings | Noun and adjectives | ![](image/Dihedral wings.jpg ) |
 |  A wobble      |  Noun    |   A unsteady motion  |
 |     To trigger  |     Verb  |   To cause        |
 
