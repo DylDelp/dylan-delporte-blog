@@ -9,3 +9,55 @@ output: word_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+First name/surname : Dylan Delporte 
+Teacher’s name: Nicolas Devilez
+Class name: BAB2 bio, group 4 
+Academic year: 2019-2020
+
+
+# The mimicry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of contents
+1. Brief introduction
+2. Seven analyses and articles (in another pdf)
+2.1. Article 1: 8 animals that exhibit mimicry
+2.2. Article 2: Caterpillars of peppered moth perceive color through their skin
+2.3. Article 3: Mutual coevolution in Müllerian mimicry? Arguably, new data suggest yes
+2.4. Article 4: A homeotic shift late in development drives mimetic color variation in a bumble bee 
+2.5. Article 5: Wing genes responsible for tiny treehopper’s extraordinary helmet
+2.6. Article 6: The giant squid genome holds surprises
+2.7. Article 7: Iridescence as camouflage
+3. Conclusion
+4. Bibliography
+
+1. Brief introduction
+This introduction will introduce you my portfolio about the mimicry.
+The mimicry is a strong resemblance between two species (or more). The species who imitate is called mimic and the species (or the object) imitated is called the model. The relation between the two species led to an evolutive convergence where constraints are similar. Likeness can be various according the species concerned. 
+
+Different phenomenon can be linked to several concept like the warning signals. This kind of signals can be visual or olfactive see noisy for predator (but not necessary for another species). Its aim is to warn their predators that it’s not a good idea to eat it because they can be toxic or unsavory. Except some mimetic species who couldn’t be risky.
+
+Studying genes from different mimetic species, it’s possible to see how they are different in spite of the fact the look like similar. Special genes can explain the likeness between species, they are called Homeobox gene (or Hox genes). This Hox genes characterises the position and the function of a body plan since its embryology. Interesting data can be obtained about the mimicry to detect how the likeness is not the only characteristic to have in mind to regroup species.
+2. Seven analyses and articles (in another pdf)
+2.1. Article 1: 8 animals that exhibit mimicry
