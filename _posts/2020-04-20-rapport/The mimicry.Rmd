@@ -538,61 +538,78 @@ The Hox genes are a tool among several to disappear for predators and increase t
 
 This topic changes the biologic vision about the word. There is more diversity than we can expect in the environment. A question remains how define a species without consider the likeness? 
 
-4. Bibliography
-4.1. Brief introduction
-4.1.1. Website used for the brief introduction
-https://onlinelibrary.wiley.com/doi/abs/10.1111/eth.12061
+## 4. Bibliography
+### 4.1. Brief introduction
+#### 4.1.1. Website used for the brief introduction
+
+<https://onlinelibrary.wiley.com/doi/abs/10.1111/eth.12061>
 Consulted the 16th April 2020 at 9.34 AM 
 
-4.1.2. Scholar material from College Sainte-Gertrude Nivelles (CSGN)
+#### 4.1.2. Scholar material from College Sainte-Gertrude Nivelles (CSGN)
+
 Lesson about gene Hox, Madame Bernard, teacher of biology, 6th Secondary.
 
-4.2.1. Article 1: 8 animals that exhibit mimicry 
-Article:
-Kiprop, Victor. “8 Animals That Exhibit Mimicry.” WorldAtlas, October 17, 2019, https://www.worldatlas.com/articles/8-animals-that-exhibit-mimicry.html 
+#### 4.2.1. Article 1: 8 animals that exhibit mimicry 
+##### Article:
+
+Kiprop, Victor. “8 Animals That Exhibit Mimicry.” WorldAtlas, October 17, 2019, <https://www.worldatlas.com/articles/8-animals-that-exhibit-mimicry.html>
 Last consultation: the 16th of April 2020 at 2.59 PM 
-Picture of dihedral wings:
+
+##### Picture of dihedral wings:
+
 Google image
 
-4.2.2. Article 2: Caterpillars of peppered moth perceive color through their skin
-Article:
-Max Planck Institute for Chemical Ecology. “Caterpillars of peppered moth perceive color through their skin.” Science Daily, August 2, 2019, https://www.sciencedaily.com/releases/2019/08/190802104526.htm
+#### 4.2.2. Article 2: Caterpillars of peppered moth perceive color through their skin
+
+###### Article:
+
+Max Planck Institute for Chemical Ecology. “Caterpillars of peppered moth perceive color through their skin.” Science Daily, August 2, 2019, <https://www.sciencedaily.com/releases/2019/08/190802104526.htm>
 Last consultation: the 16th of April 2020 at 4.30 PM
 
-4.2.3. Article 3: Mutual coevolution in Müllerian mimicry? Arguably, new data suggest yes
-Article:
+#### 4.2.3. Article 3: Mutual coevolution in Müllerian mimicry? Arguably, new data suggest yes
+
+##### Article:
+
 Hoyal Cuthill, Jennifer. “Mutual coevolution in Müllerian mimicry? Arguably, new data suggest yes.” Science Daily and Heliconius Homepage too, August 27,2019,
-http://www.heliconius.org/2019/mutual-coevolution-in-mullerian-mimicry-arguably-new-data-suggest-yes/ 
+<http://www.heliconius.org/2019/mutual-coevolution-in-mullerian-mimicry-arguably-new-data-suggest-yes/> 
 Last consultation: the 16th of April 2020 at 4.36 PM
 
+
 Lexico, US dictionary. “Definition of advergence in English”. Lexico powered by Oxford,
-https://www.lexico.com/en/definition/advergence 
+<https://www.lexico.com/en/definition/advergence>
 Last consultation: the 16th of April 2020 at 4.40 PM
 
-Picture of morphology of butterfly:
+##### Picture of morphology of butterfly:
+
 Google image 
 
-4.2.4. Article 4: A homeotic shift late in development drives mimetic color variation in a bumble bee 
+#### 4.2.4. Article 4: A homeotic shift late in development drives mimetic color variation in a bumble bee 
 Li Tiana, Sarthok Rasique Rahmana, Briana D. Ezrayb, Luca Franzini, James P. Strange, Patrick Lhommea, and Heather M. Hinesa, “A homeotic shift late in development drives mimetic color variation in a bumble bee” , PNAS (Proceedings of the National Academy of Science of the United State of America), first published May 1,2019,
 https://www.pnas.org/content/pnas/116/24/11857.full.pdf?casa_token=tf0WueWSnk0AAAAA:wAeJHZ49IsJZbFFTIz3HFXy7kdDZrchDqHYEuY8uPtvPZuKoqSZVhqulzz3A_DU_MRGk8tLf5nyq0FSI
 Last consultation the 17th of April 2020 at 3.14 PM
 
-4.2.5. Article 5: Wing genes responsible for tiny treehopper’s extraordinary helmet
+### 4.2.5. Article 5: Wing genes responsible for tiny treehopper’s extraordinary helmet
+
 University of Connecticut, "Wing genes responsible for tiny treehopper's extraordinary helmet." ScienceDaily, December 9, 2019,
-https://www.sciencedaily.com/releases/2019/12/191209112152.htm
+<https://www.sciencedaily.com/releases/2019/12/191209112152.htm>
 Last consultation the 17th of April 2020 at 7.40 PM
 
-4.2.6. Article 6: The giant squid genome holds surprises
+### 4.2.6. Article 6: The giant squid genome holds surprises
+
 Lewis Ricki, Doctor of Philosophy, “The giant squid genome holds surprises”, Plos Blog (diverse perspectives on science and medicine), DNA Sciences Blog, January 30, 2020,
-https://blogs.plos.org/dnascience/2020/01/30/new-view-of-the-brink-of-cancer-may-validate-preventive-mastectomy/
+<https://blogs.plos.org/dnascience/2020/01/30/new-view-of-the-brink-of-cancer-may-validate-preventive-mastectomy/>
 Last consultation the 17th of April 2020 at 7.58 PM
 
-4.2.7. Article 7 : Iridescence as camouflage
+### 4.2.7. Article 7 : Iridescence as camouflage
+
 University of Bristol, “Iridescence as camouflage”, Current Biology, February 3, 2020
-https://www.cell.com/current-biology/fulltext/S0960-9822(19)31608-2#
+<https://www.cell.com/current-biology/fulltext/S0960-9822(19)31608-2#>
 Last consultation the 17Th of April 2020 at 8.20 PM
  
-4.3. Conclusion
+### 4.3. Conclusion
+
 No more website was used 
 
  
+Link to download a work format of this report
+<https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2020-04-20-rapport/The_mimicry.docx>
