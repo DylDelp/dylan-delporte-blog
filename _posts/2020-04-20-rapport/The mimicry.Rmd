@@ -29,13 +29,6 @@ Academic year: 2019-2020
 # The mimicry
 
 
-
-
-
-
-
-
-
 ## Table of contents
 ### 1. Brief introduction
 ### 2. Seven analyses and articles (in another pdf)
@@ -248,7 +241,162 @@ Studying genes from different mimetic species, it’s possible to see how they a
 | __Remaining questions?__   | There are no remaining questions |
 
 ### 2.5. Article 5: Wing genes responsible for tiny treehopper’s extraordinary helmet
+
+#### Vocabulary 
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+| Treehopper | Noun | It's a bug living on trees and who has a thorn-shaped  |
+| Helmet | Noun | A hard hat |
+| To shed light | Verb | To explain  |
+| The headgear | Noun | All things who can wear your head |
+| The Kernel | Noun | A grain |
+| Cozy | Adjective | Something comfortable |
+| A mesh | Noun | A network |
+| Rooftop | Noun | The surface of the roof |
+| To feast | Verb | To make a good meal , To feed  |
+| To (mind-)blow | Verb | To impress |
+| Indeed | Adverb | In fact ,to be sure  |
+| The thorn | Noun | a spine of tree |
+| To perch atop | Verb | To be on the peak of something|
+| To borrow | Verb | To take something with the aim to return it |
+| To seek (sought,sought) | Verb | To resort |
+| To tackle | Verb | To take something forward |
+| Picky (informal) | Adjective | Fastidious |
+| Painstaking | Adjective | To do with a great care |
+| Smooth-surfaced | Adjective | Flat-surfaced |
+| To wade | Verb | To move with difficulty through something |
+| Overwhelmingly | Adverb | With the majority |
+| Milkweed | Noun | The monarch butterfly |
+| To tinker | Verb | To experiment with something |
+
+#### Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers          | Cera R. Fisher, Jill L. Wegrzyn, Elizabeth L. Jockusch from the University of Connecticut |
+| Published in?               | 9 december 2019 |
+| General topic?              | The helmet of Treehopper |
+| Procedure/what was examined? | The origin of this helmet |
+| Conclusions/discovery?       | The genes of the wings code this part of the treehoppers'body|
+| Remaining questions?         | "How do we get all these shapes? How do we get all this diversity?" Cera R.Fisher |
+
+
 ### 2.6. Article 6: The giant squid genome holds surprises
+#### Vocabulary 
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+| Elusive | Adjective | To be difficult to reach| 
+| Sporting  | Adjective | To be generous  | 
+| Telltale | Adjetive | Indicating| 
+| Ashore | Adverb | coming up to the sea | 
+| To mesmerize | Verb | To hypnotize | 
+| A Diorama | Noun | A model in three dimention | 
+| To intrigue | Verb | to captive | 
+| To arise from (arose, arose, arisen) | Verb  |To start to exist |
+| To witness the event| Verb | To see the even | 
+| To sketch | Verb | To draw, describe something | 
+| Eclectic | Adjective | Wide |
+| Slimy | Adjective | Like slime|
+| To maroon| Verb | To be lost |
+| A beak| Noun | A  piece of the anatomy used to break the food like for birds|
+| The realm | Noun  | A kingdom|
+| The counterpart | Noun | Something with the same function than another thing |
+| Squishy | Adjective| Soft |
+| The mantle| Noun | The pallium, a piece ofthe anatomy of Mollusca able to create a exoskeleton or a endoskeleton to protect the visceral mass |
+| To propel| Verb| To move forward or onward|
+| A layer | Noun | It's relative to the endoskeleton in this article |
+| To tip | Verb | To move down | 
+| To emanate | Verb | To proceed |
+| A salami slicer | Noun | A piece of meal cut in small piece |
+| To probe| Verb | To ask quetions and find information to reach the answer |
+| A handful | Noun | A small amount that we can hand |
+| To overlap| Verb | To cover partly|
+| Sufficiently | Adverb | Enough |
+| pending | Adjective | Uncertain|
+| Alas | Abbreviation | Alaska|
+| To shatter| Verb | To break |
+| A lump| Noun | A irregular compact mass|
+| To flesh out | Verb | To provide more information |
+| To harbor |Verb | To provide a safe place|
+| The dozen | Noun | A set of 12 objects| 
+| To cluster | Verb | To come in the same time | 
+|The array(s) | Noun | The arrangement |
+|The trademark |Noun | A logo|
+|To glow| Verb| To shine|
+|To blend| Verb| To mix|
+|To knit variations on proteins|Verb| To modify proteins|
+|To retain| Verb| To maintain|
+|To stretch| Verb| To expand|
+| A bench | Noun| A long table|
+|Blobby| Adjective| Viscous |
+|Seemingly| Adverb |Apparently|
+|The intricacy |Noun| The act to be complex | 
+| Feathery|Adjective | Like feathe , plumed|
+| To enshroud| Verb| To hide|
+|Awe-inspiring|Adjective| To cause fear being magnificient|
+
+#### Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |     Ricky Lewis | 
+|Bibliography of the researchers | <http://www.rickilewis.com/>  consulting the 17th of February 2020    |
+| Published in?                | 10 February 2020 on the website "Technology.org" and the 6 February on the website "DNAscience"                                                  |
+| General topic?               | The general topic is the giant squids genome  |
+| Conclusions/discovery?       | If species lose Hox Genes or if species gain Hox gene, its body plan will change. That have for consequence that the species can lose or gain a fundamental advantage to survive from the natural selection |
+| Remaining questions?         | There are no remaining questions at the end of the article |
+
 ### 2.7. Article 7: Iridescence as camouflage
+#### Vocabulary 
+
+| Words from the text | Functions   |  Synonym/explanation in English |
+| ------------------- | ------------|------------- |
+| Taxonomically | Adverb | It's relatif to the taxonomie|
+| Hues | Noun | It's the color or the shade of something| 
+| concealment | Adverb | Hinding something|
+| Multilayer | Adjective | To be constiting by many layers  |
+|To Fare | verb | To pass through |
+| Glossy | Adjective| Shiny| 
+| Vivid | Adjective| Colorful|
+| Conspicious | Adjective| To be clearly seen | 
+| To conceal | Verb | To hide something|
+| To underlie |Verb | To be under something | 
+| The field | Noun| An area |
+| To wrap| Verb| To cover | 
+| Hereafter| Adverb | "Following time" after a event |
+| Avian| Adjective| This word is used to talk about something relatif to birds | 
+| A covariate| Noun | A variable whose is independent but influence the result with a indirect way|
+| A slope | Noun| A surface qualifies of rising or falling| 
+| A Cues| Noun| A signal to start |
+| The Nail varnish| Noun| It's a colored substance put on nail | 
+| Ternary | Adjective| with three parts| 
+| A pushpin | Noun| A thumbtack  |
+| To overnight| Verb| To remain during the night |
+| Handling  | Noun | When you take something in your hands| 
+| Rangefinder| Noun | It's a object used to estimate distance with a laser |
+|To pin To | Verb | To attach with pin |
+| An aperture| Noun | A hole where light pass through | 
+| A percentile | Noun| A pourcentage|
+
+#### Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| __Affiliations__        |   __Researchers__  |
+| 1. School of Biological Sciences, University of Bristol, Bristol BS8 1TQ, UK | • Karin Kjernsmo
+| |• Innes C. Cuthill |
+| |• Heather M. Whitney |
+| |• Henry Knowles| 
+| 2. School of Psychological Science, University of Bristol, Bristol BS8 1TU, UK | • Laszlo Talas |
+| | • Nicholas E. Scott-Samuel |
+| | • Joanna R. Hall |
+| __Published in?__                |   The 23rd of January 2020     |
+| __General topic?__               | The iridescence used as camouflage |
+| __Conclusions/discovery?__       | |
+| __Remaining questions?__         | There are no remaining questions at the end of the article |
+
 ## 3. Conclusion
+
 ## 4. Bibliography
