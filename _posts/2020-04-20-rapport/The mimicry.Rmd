@@ -540,3 +540,7 @@ No more website was used
 ## Link to download a work format of this report
 
 <https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2020-04-20-rapport/The_mimicry.docx>
+
+## Link to download a pdf format of all article in one file
+
+<https://github.com/DylDelp/dylan-delporte-blog/blob/master/_posts/2020-04-20-rapport/ARTILCE_Mimicry-fusionn%C3%A9.pdf>
